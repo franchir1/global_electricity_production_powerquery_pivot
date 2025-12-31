@@ -1,0 +1,13 @@
+﻿0;electricity;FALSE;TRUE
+1;combustible_fuels;FALSE;FALSE
+2;coal;FALSE;FALSE
+3;oil;FALSE;FALSE
+4;natural_gas;FALSE;FALSE
+5;renewable_combustibles;TRUE;FALSE
+6;hydro;TRUE;FALSE
+7;wind;TRUE;FALSE
+8;solar;TRUE;FALSE
+9;mixed_renewables;TRUE;TRUE
+10;geo;TRUE;FALSE
+11;not_specified;FALSE;FALSE
+12;nuclear;FALSE;FALSE

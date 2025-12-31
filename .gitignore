@@ -1,0 +1,11 @@
+# Excel temp files
+~$*.xlsx
+~$*.xlsm
+
+# Power Pivot / temp
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db

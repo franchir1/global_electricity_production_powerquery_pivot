@@ -1,0 +1,1001 @@
+﻿country_name,date,parameter,product,value,unit
+Australia,12/1/2023,Net Electricity Production,Electricity,22646.1901,GWh
+Australia,12/1/2023,Net Electricity Production,Total Combustible Fuels,13397.9356,GWh
+Australia,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",9768.5223,GWh
+Australia,12/1/2023,Net Electricity Production,Oil and Petroleum Products,289.5415,GWh
+Australia,12/1/2023,Net Electricity Production,Natural Gas,3091.9272,GWh
+Australia,12/1/2023,Net Electricity Production,Combustible Renewables,247.9446,GWh
+Australia,12/1/2023,Net Electricity Production,Hydro,1047.854,GWh
+Australia,12/1/2023,Net Electricity Production,Wind,2719.2534,GWh
+Australia,12/1/2023,Net Electricity Production,Solar,5481.1471,GWh
+Australia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",9496.1991,GWh
+Australia,12/1/2023,Used for pumped storage,Electricity,51.4665,GWh
+Australia,12/1/2023,Distribution Losses,Electricity,992.7051,GWh
+Australia,12/1/2023,Final Consumption (Calculated),Electricity,21602.0184,GWh
+Austria,12/1/2023,Net Electricity Production,Electricity,6783.273,GWh
+Austria,12/1/2023,Net Electricity Production,Total Combustible Fuels,1746.9034,GWh
+Austria,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",167.3548,GWh
+Austria,12/1/2023,Net Electricity Production,Oil and Petroleum Products,73.8682,GWh
+Austria,12/1/2023,Net Electricity Production,Natural Gas,1035.0865,GWh
+Austria,12/1/2023,Net Electricity Production,Combustible Renewables,407.4009,GWh
+Austria,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,63.1929,GWh
+Austria,12/1/2023,Net Electricity Production,Hydro,4187.4854,GWh
+Austria,12/1/2023,Net Electricity Production,Wind,779.5912,GWh
+Austria,12/1/2023,Net Electricity Production,Solar,68.6574,GWh
+Austria,12/1/2023,Net Electricity Production,Geothermal,0.0025,GWh
+Austria,12/1/2023,Net Electricity Production,Not Specified,0.6331,GWh
+Austria,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",5443.1374,GWh
+Austria,12/1/2023,Total Imports,Electricity,2160.89,GWh
+Austria,12/1/2023,Total Exports,Electricity,2035.1686,GWh
+Austria,12/1/2023,Used for pumped storage,Electricity,626.7909,GWh
+Austria,12/1/2023,Distribution Losses,Electricity,313.4765,GWh
+Austria,12/1/2023,Final Consumption (Calculated),Electricity,5968.727,GWh
+Belgium,12/1/2023,Net Electricity Production,Electricity,6799.1069,GWh
+Belgium,12/1/2023,Net Electricity Production,Nuclear,2905.5618,GWh
+Belgium,12/1/2023,Net Electricity Production,Total Combustible Fuels,1521.7645,GWh
+Belgium,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1.2419,GWh
+Belgium,12/1/2023,Net Electricity Production,Oil and Petroleum Products,5.8373,GWh
+Belgium,12/1/2023,Net Electricity Production,Natural Gas,1247.0054,GWh
+Belgium,12/1/2023,Net Electricity Production,Combustible Renewables,200.9037,GWh
+Belgium,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,66.7762,GWh
+Belgium,12/1/2023,Net Electricity Production,Hydro,164.5348,GWh
+Belgium,12/1/2023,Net Electricity Production,Wind,2076.6035,GWh
+Belgium,12/1/2023,Net Electricity Production,Solar,114.2926,GWh
+Belgium,12/1/2023,Net Electricity Production,Not Specified,16.3496,GWh
+Belgium,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",2556.3347,GWh
+Belgium,12/1/2023,Total Imports,Electricity,1651.328,GWh
+Belgium,12/1/2023,Total Exports,Electricity,1463.4889,GWh
+Belgium,12/1/2023,Used for pumped storage,Electricity,149.1022,GWh
+Belgium,12/1/2023,Distribution Losses,Electricity,283.009,GWh
+Belgium,12/1/2023,Final Consumption (Calculated),Electricity,6554.8348,GWh
+Canada,12/1/2023,Net Electricity Production,Electricity,55982.2209,GWh
+Canada,12/1/2023,Net Electricity Production,Nuclear,7540.9104,GWh
+Canada,12/1/2023,Net Electricity Production,Total Combustible Fuels,11574.9467,GWh
+Canada,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",3157.887,GWh
+Canada,12/1/2023,Net Electricity Production,Oil and Petroleum Products,392.4441,GWh
+Canada,12/1/2023,Net Electricity Production,Natural Gas,7084.2532,GWh
+Canada,12/1/2023,Net Electricity Production,Combustible Renewables,928.4452,GWh
+Canada,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,11.9172,GWh
+Canada,12/1/2023,Net Electricity Production,Hydro,32216.9259,GWh
+Canada,12/1/2023,Net Electricity Production,Wind,4305.3892,GWh
+Canada,12/1/2023,Net Electricity Production,Solar,309.7153,GWh
+Canada,12/1/2023,Net Electricity Production,Not Specified,34.3333,GWh
+Canada,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",37760.4756,GWh
+Canada,12/1/2023,Total Imports,Electricity,2579.0745,GWh
+Canada,12/1/2023,Total Exports,Electricity,3296.7227,GWh
+Canada,12/1/2023,Used for pumped storage,Electricity,17.8475,GWh
+Canada,12/1/2023,Distribution Losses,Electricity,3082.1795,GWh
+Canada,12/1/2023,Final Consumption (Calculated),Electricity,52164.5456,GWh
+Chile,12/1/2023,Remarks,Data is estimated for this month,,GWh
+Chile,12/1/2023,Net Electricity Production,Electricity,7734.9912,GWh
+Chile,12/1/2023,Net Electricity Production,Total Combustible Fuels,2099.8702,GWh
+Chile,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1077.3487,GWh
+Chile,12/1/2023,Net Electricity Production,Oil and Petroleum Products,24.9683,GWh
+Chile,12/1/2023,Net Electricity Production,Natural Gas,611.3563,GWh
+Chile,12/1/2023,Net Electricity Production,Combustible Renewables,386.1969,GWh
+Chile,12/1/2023,Net Electricity Production,Hydro,3052.8617,GWh
+Chile,12/1/2023,Net Electricity Production,Wind,878.1312,GWh
+Chile,12/1/2023,Net Electricity Production,Solar,1660.4501,GWh
+Chile,12/1/2023,Net Electricity Production,Geothermal,43.6779,GWh
+Chile,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",6021.3179,GWh
+Chile,12/1/2023,Distribution Losses,Electricity,309.4811,GWh
+Chile,12/1/2023,Final Consumption (Calculated),Electricity,7425.51,GWh
+Colombia,12/1/2023,Net Electricity Production,Electricity,7526.2379,GWh
+Colombia,12/1/2023,Net Electricity Production,Total Combustible Fuels,3585.4448,GWh
+Colombia,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1168.0431,GWh
+Colombia,12/1/2023,Net Electricity Production,Oil and Petroleum Products,340.6925,GWh
+Colombia,12/1/2023,Net Electricity Production,Natural Gas,1895.2959,GWh
+Colombia,12/1/2023,Net Electricity Production,Combustible Renewables,181.4133,GWh
+Colombia,12/1/2023,Net Electricity Production,Hydro,3884.8369,GWh
+Colombia,12/1/2023,Net Electricity Production,Solar,55.9563,GWh
+Colombia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4122.2065,GWh
+Colombia,12/1/2023,Total Imports,Electricity,0.4228,GWh
+Colombia,12/1/2023,Total Exports,Electricity,104.2114,GWh
+Colombia,12/1/2023,Distribution Losses,Electricity,401.6865,GWh
+Colombia,12/1/2023,Final Consumption (Calculated),Electricity,7020.7629,GWh
+Costa Rica,12/1/2023,Remarks,Data is estimated for this month,,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Electricity,984.843,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Total Combustible Fuels,1.541,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Oil and Petroleum Products,1.4491,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Combustible Renewables,0.0919,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Hydro,678.4145,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Wind,206.2711,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Solar,6.6209,GWh
+Costa Rica,12/1/2023,Net Electricity Production,Geothermal,91.9955,GWh
+Costa Rica,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",983.3939,GWh
+Costa Rica,12/1/2023,Final Consumption (Calculated),Electricity,984.843,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Electricity,6566.4387,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Nuclear,2561.522,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Total Combustible Fuels,3500.5481,GWh
+Czech Republic,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",2743.1493,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Oil and Petroleum Products,6.6177,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Natural Gas,316.7392,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Combustible Renewables,426.0194,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,8.0226,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Hydro,365.5029,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Wind,91.9955,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Solar,38.1981,GWh
+Czech Republic,12/1/2023,Net Electricity Production,Not Specified,8.6721,GWh
+Czech Republic,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",921.7159,GWh
+Czech Republic,12/1/2023,Total Imports,Electricity,1545.7964,GWh
+Czech Republic,12/1/2023,Total Exports,Electricity,2464.9571,GWh
+Czech Republic,12/1/2023,Used for pumped storage,Electricity,134.002,GWh
+Czech Republic,12/1/2023,Distribution Losses,Electricity,302.1434,GWh
+Czech Republic,12/1/2023,Final Consumption (Calculated),Electricity,5211.1326,GWh
+Denmark,12/1/2023,Net Electricity Production,Electricity,3659.0273,GWh
+Denmark,12/1/2023,Net Electricity Production,Total Combustible Fuels,1321.7249,GWh
+Denmark,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",181.6344,GWh
+Denmark,12/1/2023,Net Electricity Production,Oil and Petroleum Products,20.4482,GWh
+Denmark,12/1/2023,Net Electricity Production,Natural Gas,117.8666,GWh
+Denmark,12/1/2023,Net Electricity Production,Combustible Renewables,948.5499,GWh
+Denmark,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,53.2258,GWh
+Denmark,12/1/2023,Net Electricity Production,Hydro,2.4949,GWh
+Denmark,12/1/2023,Net Electricity Production,Wind,2312.8606,GWh
+Denmark,12/1/2023,Net Electricity Production,Solar,21.9469,GWh
+Denmark,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",3285.8523,GWh
+Denmark,12/1/2023,Total Imports,Electricity,1665.5057,GWh
+Denmark,12/1/2023,Total Exports,Electricity,1553.9417,GWh
+Denmark,12/1/2023,Distribution Losses,Electricity,425.509,GWh
+Denmark,12/1/2023,Final Consumption (Calculated),Electricity,3345.0824,GWh
+Estonia,12/1/2023,Net Electricity Production,Electricity,485.091,GWh
+Estonia,12/1/2023,Net Electricity Production,Total Combustible Fuels,425.8348,GWh
+Estonia,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",290.3692,GWh
+Estonia,12/1/2023,Net Electricity Production,Oil and Petroleum Products,2.5502,GWh
+Estonia,12/1/2023,Net Electricity Production,Natural Gas,2.8891,GWh
+Estonia,12/1/2023,Net Electricity Production,Combustible Renewables,123.5881,GWh
+Estonia,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,6.4383,GWh
+Estonia,12/1/2023,Net Electricity Production,Hydro,3.3014,GWh
+Estonia,12/1/2023,Net Electricity Production,Wind,53.605,GWh
+Estonia,12/1/2023,Net Electricity Production,Solar,2.3497,GWh
+Estonia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",182.8443,GWh
+Estonia,12/1/2023,Total Imports,Electricity,626.9519,GWh
+Estonia,12/1/2023,Total Exports,Electricity,279.024,GWh
+Estonia,12/1/2023,Distribution Losses,Electricity,40.5296,GWh
+Estonia,12/1/2023,Final Consumption (Calculated),Electricity,792.4893,GWh
+Finland,12/1/2023,Net Electricity Production,Electricity,7806.7954,GWh
+Finland,12/1/2023,Net Electricity Production,Nuclear,3203.3729,GWh
+Finland,12/1/2023,Net Electricity Production,Total Combustible Fuels,1965.0996,GWh
+Finland,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",387.9706,GWh
+Finland,12/1/2023,Net Electricity Production,Oil and Petroleum Products,15.9104,GWh
+Finland,12/1/2023,Net Electricity Production,Natural Gas,131.7346,GWh
+Finland,12/1/2023,Net Electricity Production,Combustible Renewables,1385.0034,GWh
+Finland,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,44.4808,GWh
+Finland,12/1/2023,Net Electricity Production,Hydro,1332.6698,GWh
+Finland,12/1/2023,Net Electricity Production,Wind,1286.5007,GWh
+Finland,12/1/2023,Net Electricity Production,Solar,1.569,GWh
+Finland,12/1/2023,Net Electricity Production,Not Specified,17.5833,GWh
+Finland,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4005.7429,GWh
+Finland,12/1/2023,Total Imports,Electricity,1232.7967,GWh
+Finland,12/1/2023,Total Exports,Electricity,500.5552,GWh
+Finland,12/1/2023,Distribution Losses,Electricity,346.7134,GWh
+Finland,12/1/2023,Final Consumption (Calculated),Electricity,8192.3235,GWh
+France,12/1/2023,Net Electricity Production,Electricity,51535.019,GWh
+France,12/1/2023,Net Electricity Production,Nuclear,31539,GWh
+France,12/1/2023,Net Electricity Production,Total Combustible Fuels,4942.8887,GWh
+France,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",193.547,GWh
+France,12/1/2023,Net Electricity Production,Oil and Petroleum Products,500.2937,GWh
+France,12/1/2023,Net Electricity Production,Natural Gas,3141.0835,GWh
+France,12/1/2023,Net Electricity Production,Combustible Renewables,932.5581,GWh
+France,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,175.4064,GWh
+France,12/1/2023,Net Electricity Production,Hydro,7488.8538,GWh
+France,12/1/2023,Net Electricity Production,Wind,6679.6528,GWh
+France,12/1/2023,Net Electricity Production,Solar,793.1696,GWh
+France,12/1/2023,Net Electricity Production,Geothermal,7.9717,GWh
+France,12/1/2023,Net Electricity Production,Other Renewables,39.8221,GWh
+France,12/1/2023,Net Electricity Production,Not Specified,43.6602,GWh
+France,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",15942.0282,GWh
+France,12/1/2023,Total Imports,Electricity,2046.0742,GWh
+France,12/1/2023,Total Exports,Electricity,7614.0461,GWh
+France,12/1/2023,Used for pumped storage,Electricity,740.9975,GWh
+France,12/1/2023,Distribution Losses,Electricity,4121.1626,GWh
+France,12/1/2023,Final Consumption (Calculated),Electricity,41104.8869,GWh
+Germany,12/1/2023,Net Electricity Production,Electricity,46049.3675,GWh
+Germany,12/1/2023,Net Electricity Production,Total Combustible Fuels,23451.7515,GWh
+Germany,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",11372.1126,GWh
+Germany,12/1/2023,Net Electricity Production,Oil and Petroleum Products,334.8692,GWh
+Germany,12/1/2023,Net Electricity Production,Natural Gas,7360.9151,GWh
+Germany,12/1/2023,Net Electricity Production,Combustible Renewables,3947.0124,GWh
+Germany,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,436.8421,GWh
+Germany,12/1/2023,Net Electricity Production,Hydro,2688.4471,GWh
+Germany,12/1/2023,Net Electricity Production,Wind,18916.8273,GWh
+Germany,12/1/2023,Net Electricity Production,Solar,841.4584,GWh
+Germany,12/1/2023,Net Electricity Production,Geothermal,19.2404,GWh
+Germany,12/1/2023,Net Electricity Production,Not Specified,131.6427,GWh
+Germany,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",26412.9856,GWh
+Germany,12/1/2023,Total Imports,Electricity,4582.777,GWh
+Germany,12/1/2023,Total Exports,Electricity,7395.3395,GWh
+Germany,12/1/2023,Used for pumped storage,Electricity,712.3816,GWh
+Germany,12/1/2023,Distribution Losses,Electricity,2751.6331,GWh
+Germany,12/1/2023,Final Consumption (Calculated),Electricity,39772.7902,GWh
+Greece,12/1/2023,Net Electricity Production,Electricity,3973.3812,GWh
+Greece,12/1/2023,Net Electricity Production,Total Combustible Fuels,1885.0905,GWh
+Greece,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",462.068,GWh
+Greece,12/1/2023,Net Electricity Production,Oil and Petroleum Products,146.0306,GWh
+Greece,12/1/2023,Net Electricity Production,Natural Gas,1221.0278,GWh
+Greece,12/1/2023,Net Electricity Production,Combustible Renewables,52.637,GWh
+Greece,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,3.3271,GWh
+Greece,12/1/2023,Net Electricity Production,Hydro,560.0478,GWh
+Greece,12/1/2023,Net Electricity Production,Wind,1044.6996,GWh
+Greece,12/1/2023,Net Electricity Production,Solar,483.5433,GWh
+Greece,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",2140.9276,GWh
+Greece,12/1/2023,Total Imports,Electricity,705.6747,GWh
+Greece,12/1/2023,Total Exports,Electricity,379.6707,GWh
+Greece,12/1/2023,Used for pumped storage,Electricity,41.2434,GWh
+Greece,12/1/2023,Distribution Losses,Electricity,363.6477,GWh
+Greece,12/1/2023,Final Consumption (Calculated),Electricity,3894.4941,GWh
+Hungary,12/1/2023,Net Electricity Production,Electricity,2435.9777,GWh
+Hungary,12/1/2023,Net Electricity Production,Nuclear,1126.5209,GWh
+Hungary,12/1/2023,Net Electricity Production,Total Combustible Fuels,1017.2856,GWh
+Hungary,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",223.3661,GWh
+Hungary,12/1/2023,Net Electricity Production,Oil and Petroleum Products,6.0429,GWh
+Hungary,12/1/2023,Net Electricity Production,Natural Gas,656.5991,GWh
+Hungary,12/1/2023,Net Electricity Production,Combustible Renewables,112.094,GWh
+Hungary,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,19.1834,GWh
+Hungary,12/1/2023,Net Electricity Production,Hydro,8.3045,GWh
+Hungary,12/1/2023,Net Electricity Production,Wind,57.3812,GWh
+Hungary,12/1/2023,Net Electricity Production,Solar,214.3141,GWh
+Hungary,12/1/2023,Net Electricity Production,Geothermal,0.9214,GWh
+Hungary,12/1/2023,Net Electricity Production,Not Specified,11.25,GWh
+Hungary,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",393.0152,GWh
+Hungary,12/1/2023,Total Imports,Electricity,2526.7412,GWh
+Hungary,12/1/2023,Total Exports,Electricity,811.0376,GWh
+Hungary,12/1/2023,Distribution Losses,Electricity,243.701,GWh
+Hungary,12/1/2023,Final Consumption (Calculated),Electricity,3907.9803,GWh
+Iceland,12/1/2023,Net Electricity Production,Electricity,1657.187,GWh
+Iceland,12/1/2023,Net Electricity Production,Total Combustible Fuels,0.1186,GWh
+Iceland,12/1/2023,Net Electricity Production,Oil and Petroleum Products,0.1186,GWh
+Iceland,12/1/2023,Net Electricity Production,Hydro,1155.7021,GWh
+Iceland,12/1/2023,Net Electricity Production,Wind,1.194,GWh
+Iceland,12/1/2023,Net Electricity Production,Geothermal,500.1723,GWh
+Iceland,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",1657.0684,GWh
+Iceland,12/1/2023,Distribution Losses,Electricity,45.2781,GWh
+Iceland,12/1/2023,Final Consumption (Calculated),Electricity,1611.9089,GWh
+Ireland,12/1/2023,Net Electricity Production,Electricity,2888.7039,GWh
+Ireland,12/1/2023,Net Electricity Production,Total Combustible Fuels,1118.7898,GWh
+Ireland,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",92.9112,GWh
+Ireland,12/1/2023,Net Electricity Production,Oil and Petroleum Products,10.6531,GWh
+Ireland,12/1/2023,Net Electricity Production,Natural Gas,912.6871,GWh
+Ireland,12/1/2023,Net Electricity Production,Combustible Renewables,83.875,GWh
+Ireland,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,18.6634,GWh
+Ireland,12/1/2023,Net Electricity Production,Hydro,145.952,GWh
+Ireland,12/1/2023,Net Electricity Production,Wind,1622.4873,GWh
+Ireland,12/1/2023,Net Electricity Production,Solar,1.4748,GWh
+Ireland,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",1853.7892,GWh
+Ireland,12/1/2023,Total Imports,Electricity,306.9753,GWh
+Ireland,12/1/2023,Total Exports,Electricity,46.4877,GWh
+Ireland,12/1/2023,Used for pumped storage,Electricity,45.2048,GWh
+Ireland,12/1/2023,Distribution Losses,Electricity,230.212,GWh
+Ireland,12/1/2023,Final Consumption (Calculated),Electricity,2873.7748,GWh
+Italy,12/1/2023,Net Electricity Production,Electricity,20644.1092,GWh
+Italy,12/1/2023,Net Electricity Production,Total Combustible Fuels,13089.0451,GWh
+Italy,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1108.3487,GWh
+Italy,12/1/2023,Net Electricity Production,Oil and Petroleum Products,538.8791,GWh
+Italy,12/1/2023,Net Electricity Production,Natural Gas,10015.0507,GWh
+Italy,12/1/2023,Net Electricity Production,Combustible Renewables,1261.2759,GWh
+Italy,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,165.4907,GWh
+Italy,12/1/2023,Net Electricity Production,Hydro,3422.9405,GWh
+Italy,12/1/2023,Net Electricity Production,Wind,2453.3831,GWh
+Italy,12/1/2023,Net Electricity Production,Solar,1177.1961,GWh
+Italy,12/1/2023,Net Electricity Production,Geothermal,458.5392,GWh
+Italy,12/1/2023,Net Electricity Production,Not Specified,43.0052,GWh
+Italy,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",8773.3348,GWh
+Italy,12/1/2023,Total Imports,Electricity,4925.1314,GWh
+Italy,12/1/2023,Total Exports,Electricity,403.3745,GWh
+Italy,12/1/2023,Used for pumped storage,Electricity,140.3881,GWh
+Italy,12/1/2023,Distribution Losses,Electricity,1474.0979,GWh
+Italy,12/1/2023,Final Consumption (Calculated),Electricity,23551.38,GWh
+Japan,12/1/2023,Remarks,Data is estimated for this month,,GWh
+Japan,12/1/2023,Net Electricity Production,Electricity,86387.0916,GWh
+Japan,12/1/2023,Net Electricity Production,Nuclear,6270.9028,GWh
+Japan,12/1/2023,Net Electricity Production,Total Combustible Fuels,65902.3298,GWh
+Japan,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",27294.077,GWh
+Japan,12/1/2023,Net Electricity Production,Oil and Petroleum Products,3849.7069,GWh
+Japan,12/1/2023,Net Electricity Production,Natural Gas,29001.743,GWh
+Japan,12/1/2023,Net Electricity Production,Combustible Renewables,4019.2579,GWh
+Japan,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,1737.5452,GWh
+Japan,12/1/2023,Net Electricity Production,Hydro,5639.2773,GWh
+Japan,12/1/2023,Net Electricity Production,Wind,1248.7101,GWh
+Japan,12/1/2023,Net Electricity Production,Solar,5548.9958,GWh
+Japan,12/1/2023,Net Electricity Production,Geothermal,277.9416,GWh
+Japan,12/1/2023,Net Electricity Production,Not Specified,1498.9342,GWh
+Japan,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",16734.1827,GWh
+Japan,12/1/2023,Used for pumped storage,Electricity,893.9144,GWh
+Japan,12/1/2023,Distribution Losses,Electricity,5376.5302,GWh
+Japan,12/1/2023,Final Consumption (Calculated),Electricity,80116.647,GWh
+Korea,12/1/2023,Net Electricity Production,Electricity,52386.7117,GWh
+Korea,12/1/2023,Net Electricity Production,Nuclear,15506.4302,GWh
+Korea,12/1/2023,Net Electricity Production,Total Combustible Fuels,33958.6116,GWh
+Korea,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",17315.3673,GWh
+Korea,12/1/2023,Net Electricity Production,Oil and Petroleum Products,340.2958,GWh
+Korea,12/1/2023,Net Electricity Production,Natural Gas,14797.5314,GWh
+Korea,12/1/2023,Net Electricity Production,Combustible Renewables,1315.9584,GWh
+Korea,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,189.4586,GWh
+Korea,12/1/2023,Net Electricity Production,Hydro,571.1617,GWh
+Korea,12/1/2023,Net Electricity Production,Wind,410.6119,GWh
+Korea,12/1/2023,Net Electricity Production,Solar,1475.8362,GWh
+Korea,12/1/2023,Net Electricity Production,Other Renewables,59.7915,GWh
+Korea,12/1/2023,Net Electricity Production,Not Specified,404.2687,GWh
+Korea,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",3833.3597,GWh
+Korea,12/1/2023,Used for pumped storage,Electricity,383.4936,GWh
+Korea,12/1/2023,Distribution Losses,Electricity,1753.2359,GWh
+Korea,12/1/2023,Final Consumption (Calculated),Electricity,50249.9821,GWh
+Latvia,12/1/2023,Net Electricity Production,Electricity,588.95,GWh
+Latvia,12/1/2023,Net Electricity Production,Total Combustible Fuels,222.8761,GWh
+Latvia,12/1/2023,Net Electricity Production,Natural Gas,172.7781,GWh
+Latvia,12/1/2023,Net Electricity Production,Combustible Renewables,50.098,GWh
+Latvia,12/1/2023,Net Electricity Production,Hydro,341.6659,GWh
+Latvia,12/1/2023,Net Electricity Production,Wind,24.3517,GWh
+Latvia,12/1/2023,Net Electricity Production,Solar,0.0564,GWh
+Latvia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",416.1719,GWh
+Latvia,12/1/2023,Total Imports,Electricity,311.9579,GWh
+Latvia,12/1/2023,Total Exports,Electricity,249.0633,GWh
+Latvia,12/1/2023,Distribution Losses,Electricity,34.7032,GWh
+Latvia,12/1/2023,Final Consumption (Calculated),Electricity,617.1414,GWh
+Lithuania,12/1/2023,Net Electricity Production,Electricity,600.2822,GWh
+Lithuania,12/1/2023,Net Electricity Production,Total Combustible Fuels,192.4687,GWh
+Lithuania,12/1/2023,Net Electricity Production,Oil and Petroleum Products,12.2614,GWh
+Lithuania,12/1/2023,Net Electricity Production,Natural Gas,105.2801,GWh
+Lithuania,12/1/2023,Net Electricity Production,Combustible Renewables,32.8259,GWh
+Lithuania,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,42.1013,GWh
+Lithuania,12/1/2023,Net Electricity Production,Hydro,87.9414,GWh
+Lithuania,12/1/2023,Net Electricity Production,Wind,319.2348,GWh
+Lithuania,12/1/2023,Net Electricity Production,Solar,0.6324,GWh
+Lithuania,12/1/2023,Net Electricity Production,Not Specified,0.005,GWh
+Lithuania,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",440.6345,GWh
+Lithuania,12/1/2023,Total Imports,Electricity,912.1314,GWh
+Lithuania,12/1/2023,Total Exports,Electricity,298.2377,GWh
+Lithuania,12/1/2023,Used for pumped storage,Electricity,74.9051,GWh
+Lithuania,12/1/2023,Distribution Losses,Electricity,94.3646,GWh
+Lithuania,12/1/2023,Final Consumption (Calculated),Electricity,1044.9064,GWh
+Luxembourg,12/1/2023,Net Electricity Production,Electricity,220.9581,GWh
+Luxembourg,12/1/2023,Net Electricity Production,Total Combustible Fuels,25.4993,GWh
+Luxembourg,12/1/2023,Net Electricity Production,Natural Gas,9.8056,GWh
+Luxembourg,12/1/2023,Net Electricity Production,Combustible Renewables,15.6936,GWh
+Luxembourg,12/1/2023,Net Electricity Production,Hydro,115.4234,GWh
+Luxembourg,12/1/2023,Net Electricity Production,Wind,76.1044,GWh
+Luxembourg,12/1/2023,Net Electricity Production,Solar,3.931,GWh
+Luxembourg,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",211.1524,GWh
+Luxembourg,12/1/2023,Total Imports,Electricity,528.574,GWh
+Luxembourg,12/1/2023,Total Exports,Electricity,112.5721,GWh
+Luxembourg,12/1/2023,Used for pumped storage,Electricity,136.0289,GWh
+Luxembourg,12/1/2023,Distribution Losses,Electricity,12.1061,GWh
+Luxembourg,12/1/2023,Final Consumption (Calculated),Electricity,488.825,GWh
+Mexico,12/1/2023,Net Electricity Production,Electricity,29086.6736,GWh
+Mexico,12/1/2023,Net Electricity Production,Nuclear,1156.4476,GWh
+Mexico,12/1/2023,Net Electricity Production,Total Combustible Fuels,23855.9483,GWh
+Mexico,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1439.8344,GWh
+Mexico,12/1/2023,Net Electricity Production,Oil and Petroleum Products,4220.9547,GWh
+Mexico,12/1/2023,Net Electricity Production,Natural Gas,17740.9183,GWh
+Mexico,12/1/2023,Net Electricity Production,Combustible Renewables,362.1886,GWh
+Mexico,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,92.0523,GWh
+Mexico,12/1/2023,Net Electricity Production,Hydro,909.3503,GWh
+Mexico,12/1/2023,Net Electricity Production,Wind,1806.8123,GWh
+Mexico,12/1/2023,Net Electricity Production,Solar,871.7493,GWh
+Mexico,12/1/2023,Net Electricity Production,Geothermal,321.6158,GWh
+Mexico,12/1/2023,Net Electricity Production,Not Specified,164.75,GWh
+Mexico,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4271.7163,GWh
+Mexico,12/1/2023,Total Imports,Electricity,354.5818,GWh
+Mexico,12/1/2023,Total Exports,Electricity,159.0104,GWh
+Mexico,12/1/2023,Distribution Losses,Electricity,2785.1902,GWh
+Mexico,12/1/2023,Final Consumption (Calculated),Electricity,26497.0549,GWh
+Netherlands,12/1/2023,Net Electricity Production,Electricity,10420.8236,GWh
+Netherlands,12/1/2023,Net Electricity Production,Nuclear,303.384,GWh
+Netherlands,12/1/2023,Net Electricity Production,Total Combustible Fuels,5800.5942,GWh
+Netherlands,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1004.5586,GWh
+Netherlands,12/1/2023,Net Electricity Production,Oil and Petroleum Products,111.2066,GWh
+Netherlands,12/1/2023,Net Electricity Production,Natural Gas,3869.39,GWh
+Netherlands,12/1/2023,Net Electricity Production,Combustible Renewables,662.4063,GWh
+Netherlands,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,153.0326,GWh
+Netherlands,12/1/2023,Net Electricity Production,Hydro,1.2945,GWh
+Netherlands,12/1/2023,Net Electricity Production,Wind,4000.0091,GWh
+Netherlands,12/1/2023,Net Electricity Production,Solar,272.9501,GWh
+Netherlands,12/1/2023,Net Electricity Production,Not Specified,42.5916,GWh
+Netherlands,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4936.6601,GWh
+Netherlands,12/1/2023,Total Imports,Electricity,1810.5657,GWh
+Netherlands,12/1/2023,Total Exports,Electricity,1861.927,GWh
+Netherlands,12/1/2023,Distribution Losses,Electricity,457.3313,GWh
+Netherlands,12/1/2023,Final Consumption (Calculated),Electricity,9912.131,GWh
+New Zealand,12/1/2023,Net Electricity Production,Electricity,3490.9606,GWh
+New Zealand,12/1/2023,Net Electricity Production,Total Combustible Fuels,521.5939,GWh
+New Zealand,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",258.9303,GWh
+New Zealand,12/1/2023,Net Electricity Production,Natural Gas,195.8019,GWh
+New Zealand,12/1/2023,Net Electricity Production,Combustible Renewables,66.8616,GWh
+New Zealand,12/1/2023,Net Electricity Production,Hydro,1931.2864,GWh
+New Zealand,12/1/2023,Net Electricity Production,Wind,351.9421,GWh
+New Zealand,12/1/2023,Net Electricity Production,Solar,27.3818,GWh
+New Zealand,12/1/2023,Net Electricity Production,Geothermal,655.163,GWh
+New Zealand,12/1/2023,Net Electricity Production,Not Specified,3.5933,GWh
+New Zealand,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",3032.635,GWh
+New Zealand,12/1/2023,Distribution Losses,Electricity,217.6699,GWh
+New Zealand,12/1/2023,Final Consumption (Calculated),Electricity,3273.2906,GWh
+Norway,12/1/2023,Net Electricity Production,Electricity,13943.7655,GWh
+Norway,12/1/2023,Net Electricity Production,Total Combustible Fuels,166.9278,GWh
+Norway,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",27.1759,GWh
+Norway,12/1/2023,Net Electricity Production,Oil and Petroleum Products,56.5761,GWh
+Norway,12/1/2023,Net Electricity Production,Combustible Renewables,17.5509,GWh
+Norway,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,65.6249,GWh
+Norway,12/1/2023,Net Electricity Production,Hydro,12262.0079,GWh
+Norway,12/1/2023,Net Electricity Production,Wind,1482.3187,GWh
+Norway,12/1/2023,Net Electricity Production,Solar,0.5954,GWh
+Norway,12/1/2023,Net Electricity Production,Not Specified,31.9157,GWh
+Norway,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",13762.4729,GWh
+Norway,12/1/2023,Total Imports,Electricity,2336.63,GWh
+Norway,12/1/2023,Total Exports,Electricity,1497.1765,GWh
+Norway,12/1/2023,Used for pumped storage,Electricity,56.929,GWh
+Norway,12/1/2023,Distribution Losses,Electricity,856.393,GWh
+Norway,12/1/2023,Final Consumption (Calculated),Electricity,13869.897,GWh
+Poland,12/1/2023,Net Electricity Production,Electricity,14623.3851,GWh
+Poland,12/1/2023,Net Electricity Production,Total Combustible Fuels,11038.6673,GWh
+Poland,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",8529.1385,GWh
+Poland,12/1/2023,Net Electricity Production,Oil and Petroleum Products,0,GWh
+Poland,12/1/2023,Net Electricity Production,Natural Gas,1763.3347,GWh
+Poland,12/1/2023,Net Electricity Production,Combustible Renewables,698.6124,GWh
+Poland,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,47.5817,GWh
+Poland,12/1/2023,Net Electricity Production,Hydro,350.0734,GWh
+Poland,12/1/2023,Net Electricity Production,Wind,3086.7188,GWh
+Poland,12/1/2023,Net Electricity Production,Solar,141.7308,GWh
+Poland,12/1/2023,Net Electricity Production,Not Specified,6.1948,GWh
+Poland,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4277.1354,GWh
+Poland,12/1/2023,Total Imports,Electricity,1274.473,GWh
+Poland,12/1/2023,Total Exports,Electricity,1491.439,GWh
+Poland,12/1/2023,Used for pumped storage,Electricity,173.0017,GWh
+Poland,12/1/2023,Distribution Losses,Electricity,1614.6919,GWh
+Poland,12/1/2023,Final Consumption (Calculated),Electricity,12618.7255,GWh
+Portugal,12/1/2023,Net Electricity Production,Electricity,4613.4028,GWh
+Portugal,12/1/2023,Net Electricity Production,Total Combustible Fuels,945.8418,GWh
+Portugal,12/1/2023,Net Electricity Production,Oil and Petroleum Products,94.5804,GWh
+Portugal,12/1/2023,Net Electricity Production,Natural Gas,601.1586,GWh
+Portugal,12/1/2023,Net Electricity Production,Combustible Renewables,237.8176,GWh
+Portugal,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,12.2852,GWh
+Portugal,12/1/2023,Net Electricity Production,Hydro,2150.8054,GWh
+Portugal,12/1/2023,Net Electricity Production,Wind,1219.6525,GWh
+Portugal,12/1/2023,Net Electricity Production,Solar,283.1218,GWh
+Portugal,12/1/2023,Net Electricity Production,Geothermal,13.9813,GWh
+Portugal,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",3905.3786,GWh
+Portugal,12/1/2023,Total Imports,Electricity,1124.2304,GWh
+Portugal,12/1/2023,Total Exports,Electricity,348.7886,GWh
+Portugal,12/1/2023,Used for pumped storage,Electricity,346.774,GWh
+Portugal,12/1/2023,Distribution Losses,Electricity,450.4573,GWh
+Portugal,12/1/2023,Final Consumption (Calculated),Electricity,4591.6133,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Electricity,2743.2034,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Nuclear,1691.7489,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Total Combustible Fuels,518.8411,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",87.6765,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Oil and Petroleum Products,30.4586,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Natural Gas,191.8863,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Combustible Renewables,202.0531,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,6.7666,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Hydro,518.4384,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Solar,13.1173,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,Not Specified,1.0577,GWh
+Slovak Republic,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",733.6088,GWh
+Slovak Republic,12/1/2023,Total Imports,Electricity,1394.2008,GWh
+Slovak Republic,12/1/2023,Total Exports,Electricity,1929.2073,GWh
+Slovak Republic,12/1/2023,Used for pumped storage,Electricity,51.269,GWh
+Slovak Republic,12/1/2023,Distribution Losses,Electricity,104.7694,GWh
+Slovak Republic,12/1/2023,Final Consumption (Calculated),Electricity,2052.1584,GWh
+Slovenia,12/1/2023,Net Electricity Production,Electricity,1364.4777,GWh
+Slovenia,12/1/2023,Net Electricity Production,Nuclear,518.576,GWh
+Slovenia,12/1/2023,Net Electricity Production,Total Combustible Fuels,321.9053,GWh
+Slovenia,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",234.3645,GWh
+Slovenia,12/1/2023,Net Electricity Production,Oil and Petroleum Products,0.2119,GWh
+Slovenia,12/1/2023,Net Electricity Production,Natural Gas,59.3937,GWh
+Slovenia,12/1/2023,Net Electricity Production,Combustible Renewables,27.2347,GWh
+Slovenia,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,0.7005,GWh
+Slovenia,12/1/2023,Net Electricity Production,Hydro,487.7194,GWh
+Slovenia,12/1/2023,Net Electricity Production,Wind,0.3739,GWh
+Slovenia,12/1/2023,Net Electricity Production,Solar,35.903,GWh
+Slovenia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",551.2311,GWh
+Slovenia,12/1/2023,Total Imports,Electricity,900.495,GWh
+Slovenia,12/1/2023,Total Exports,Electricity,1042.148,GWh
+Slovenia,12/1/2023,Used for pumped storage,Electricity,38.5096,GWh
+Slovenia,12/1/2023,Distribution Losses,Electricity,60.7171,GWh
+Slovenia,12/1/2023,Final Consumption (Calculated),Electricity,1123.598,GWh
+Spain,12/1/2023,Net Electricity Production,Electricity,22924.678,GWh
+Spain,12/1/2023,Net Electricity Production,Nuclear,4990.1643,GWh
+Spain,12/1/2023,Net Electricity Production,Total Combustible Fuels,5660.5453,GWh
+Spain,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",245.5875,GWh
+Spain,12/1/2023,Net Electricity Production,Oil and Petroleum Products,805.6821,GWh
+Spain,12/1/2023,Net Electricity Production,Natural Gas,4171.0379,GWh
+Spain,12/1/2023,Net Electricity Production,Combustible Renewables,392.9387,GWh
+Spain,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,45.2991,GWh
+Spain,12/1/2023,Net Electricity Production,Hydro,4425.7396,GWh
+Spain,12/1/2023,Net Electricity Production,Wind,5817.5004,GWh
+Spain,12/1/2023,Net Electricity Production,Solar,2007.8118,GWh
+Spain,12/1/2023,Net Electricity Production,Other Renewables,1.5,GWh
+Spain,12/1/2023,Net Electricity Production,Not Specified,21.4167,GWh
+Spain,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",12645.4906,GWh
+Spain,12/1/2023,Total Imports,Electricity,1399.9889,GWh
+Spain,12/1/2023,Total Exports,Electricity,2175.3525,GWh
+Spain,12/1/2023,Used for pumped storage,Electricity,683.8258,GWh
+Spain,12/1/2023,Distribution Losses,Electricity,2203.3597,GWh
+Spain,12/1/2023,Final Consumption (Calculated),Electricity,19262.129,GWh
+Sweden,12/1/2023,Net Electricity Production,Electricity,16112.3848,GWh
+Sweden,12/1/2023,Net Electricity Production,Nuclear,4915.429,GWh
+Sweden,12/1/2023,Net Electricity Production,Total Combustible Fuels,1549.5479,GWh
+Sweden,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",72.7896,GWh
+Sweden,12/1/2023,Net Electricity Production,Oil and Petroleum Products,34.001,GWh
+Sweden,12/1/2023,Net Electricity Production,Natural Gas,12.4694,GWh
+Sweden,12/1/2023,Net Electricity Production,Combustible Renewables,1184.868,GWh
+Sweden,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,245.4199,GWh
+Sweden,12/1/2023,Net Electricity Production,Hydro,6788.7789,GWh
+Sweden,12/1/2023,Net Electricity Production,Wind,2852.5392,GWh
+Sweden,12/1/2023,Net Electricity Production,Solar,6.0898,GWh
+Sweden,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",10832.2759,GWh
+Sweden,12/1/2023,Total Imports,Electricity,1227.1471,GWh
+Sweden,12/1/2023,Total Exports,Electricity,2995.8233,GWh
+Sweden,12/1/2023,Distribution Losses,Electricity,1098.5261,GWh
+Sweden,12/1/2023,Final Consumption (Calculated),Electricity,13245.1825,GWh
+Switzerland,12/1/2023,Net Electricity Production,Electricity,5970.9818,GWh
+Switzerland,12/1/2023,Net Electricity Production,Nuclear,2227.5178,GWh
+Switzerland,12/1/2023,Net Electricity Production,Total Combustible Fuels,330.467,GWh
+Switzerland,12/1/2023,Net Electricity Production,Oil and Petroleum Products,3.5788,GWh
+Switzerland,12/1/2023,Net Electricity Production,Natural Gas,35.7375,GWh
+Switzerland,12/1/2023,Net Electricity Production,Combustible Renewables,194.8689,GWh
+Switzerland,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,96.2818,GWh
+Switzerland,12/1/2023,Net Electricity Production,Hydro,3278.8076,GWh
+Switzerland,12/1/2023,Net Electricity Production,Wind,23.2501,GWh
+Switzerland,12/1/2023,Net Electricity Production,Solar,110.9393,GWh
+Switzerland,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",3607.8659,GWh
+Switzerland,12/1/2023,Total Imports,Electricity,3100.8544,GWh
+Switzerland,12/1/2023,Total Exports,Electricity,2808.7937,GWh
+Switzerland,12/1/2023,Used for pumped storage,Electricity,517.4994,GWh
+Switzerland,12/1/2023,Distribution Losses,Electricity,419.8194,GWh
+Switzerland,12/1/2023,Final Consumption (Calculated),Electricity,5325.7238,GWh
+Turkey,12/1/2023,Net Electricity Production,Electricity,26341.2092,GWh
+Turkey,12/1/2023,Net Electricity Production,Total Combustible Fuels,15233.9559,GWh
+Turkey,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",9941.5736,GWh
+Turkey,12/1/2023,Net Electricity Production,Oil and Petroleum Products,16.4444,GWh
+Turkey,12/1/2023,Net Electricity Production,Natural Gas,4510.4717,GWh
+Turkey,12/1/2023,Net Electricity Production,Combustible Renewables,765.4661,GWh
+Turkey,12/1/2023,Net Electricity Production,Hydro,6157.141,GWh
+Turkey,12/1/2023,Net Electricity Production,Wind,3045.9683,GWh
+Turkey,12/1/2023,Net Electricity Production,Solar,952.2259,GWh
+Turkey,12/1/2023,Net Electricity Production,Geothermal,839.3624,GWh
+Turkey,12/1/2023,Net Electricity Production,Not Specified,112.5555,GWh
+Turkey,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",11760.1638,GWh
+Turkey,12/1/2023,Total Imports,Electricity,581.3271,GWh
+Turkey,12/1/2023,Total Exports,Electricity,178.4281,GWh
+Turkey,12/1/2023,Distribution Losses,Electricity,2564.4706,GWh
+Turkey,12/1/2023,Final Consumption (Calculated),Electricity,24179.6377,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Electricity,26452.155,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Nuclear,3510.9824,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Total Combustible Fuels,10875.3838,GWh
+United Kingdom,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",361.8366,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Oil and Petroleum Products,155.1294,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Natural Gas,7054.5656,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Combustible Renewables,2897.5235,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,406.3286,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Hydro,983.767,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Wind,10832.2982,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Solar,249.2677,GWh
+United Kingdom,12/1/2023,Net Electricity Production,Other Renewables,0.4559,GWh
+United Kingdom,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",14963.3123,GWh
+United Kingdom,12/1/2023,Total Imports,Electricity,2181.675,GWh
+United Kingdom,12/1/2023,Total Exports,Electricity,981.493,GWh
+United Kingdom,12/1/2023,Used for pumped storage,Electricity,321.1448,GWh
+United Kingdom,12/1/2023,Distribution Losses,Electricity,3149.7917,GWh
+United Kingdom,12/1/2023,Final Consumption (Calculated),Electricity,24181.4004,GWh
+United States,12/1/2023,Net Electricity Production,Electricity,350888.6201,GWh
+United States,12/1/2023,Net Electricity Production,Nuclear,68864.0346,GWh
+United States,12/1/2023,Net Electricity Production,Total Combustible Fuels,210200.3556,GWh
+United States,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",59175.3363,GWh
+United States,12/1/2023,Net Electricity Production,Oil and Petroleum Products,2281.0575,GWh
+United States,12/1/2023,Net Electricity Production,Natural Gas,143891.3468,GWh
+United States,12/1/2023,Net Electricity Production,Combustible Renewables,4108.8668,GWh
+United States,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,743.7482,GWh
+United States,12/1/2023,Net Electricity Production,Hydro,19878.1424,GWh
+United States,12/1/2023,Net Electricity Production,Wind,38431.4917,GWh
+United States,12/1/2023,Net Electricity Production,Solar,11996.205,GWh
+United States,12/1/2023,Net Electricity Production,Geothermal,1381.4946,GWh
+United States,12/1/2023,Net Electricity Production,Not Specified,136.8962,GWh
+United States,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",75796.2005,GWh
+United States,12/1/2023,Total Imports,Electricity,3251.2811,GWh
+United States,12/1/2023,Total Exports,Electricity,680.4109,GWh
+United States,12/1/2023,Used for pumped storage,Electricity,1916.5494,GWh
+United States,12/1/2023,Distribution Losses,Electricity,24947.3575,GWh
+United States,12/1/2023,Final Consumption (Calculated),Electricity,326595.5834,GWh
+Argentina,12/1/2023,Net Electricity Production,Electricity,10776.9242,GWh
+Argentina,12/1/2023,Net Electricity Production,Nuclear,1086.7583,GWh
+Argentina,12/1/2023,Net Electricity Production,Total Combustible Fuels,5684.4073,GWh
+Argentina,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",2.283,GWh
+Argentina,12/1/2023,Net Electricity Production,Oil and Petroleum Products,286.9277,GWh
+Argentina,12/1/2023,Net Electricity Production,Natural Gas,5210.2877,GWh
+Argentina,12/1/2023,Net Electricity Production,Combustible Renewables,184.9089,GWh
+Argentina,12/1/2023,Net Electricity Production,Hydro,2420.1461,GWh
+Argentina,12/1/2023,Net Electricity Production,Wind,1214.143,GWh
+Argentina,12/1/2023,Net Electricity Production,Solar,371.4694,GWh
+Argentina,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4190.6674,GWh
+Brazil,12/1/2023,Net Electricity Production,Electricity,61201.3215,GWh
+Brazil,12/1/2023,Net Electricity Production,Nuclear,1175.1712,GWh
+Brazil,12/1/2023,Net Electricity Production,Total Combustible Fuels,10249.4154,GWh
+Brazil,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1259.406,GWh
+Brazil,12/1/2023,Net Electricity Production,Oil and Petroleum Products,939.1877,GWh
+Brazil,12/1/2023,Net Electricity Production,Natural Gas,4518.1832,GWh
+Brazil,12/1/2023,Net Electricity Production,Combustible Renewables,3392.7056,GWh
+Brazil,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,139.9328,GWh
+Brazil,12/1/2023,Net Electricity Production,Hydro,36688.7958,GWh
+Brazil,12/1/2023,Net Electricity Production,Wind,8141.436,GWh
+Brazil,12/1/2023,Net Electricity Production,Solar,4946.5032,GWh
+Brazil,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",53169.4405,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Electricity,3429.8249,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Nuclear,1504.6512,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Total Combustible Fuels,1388.5624,GWh
+Bulgaria,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1037.4426,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Oil and Petroleum Products,19.5579,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Natural Gas,214.302,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Combustible Renewables,117.26,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Hydro,197.9092,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Wind,174.0109,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Solar,162.8031,GWh
+Bulgaria,12/1/2023,Net Electricity Production,Not Specified,1.8881,GWh
+Bulgaria,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",651.9832,GWh
+China,12/1/2023,Net Electricity Production,Electricity,844669.6596,GWh
+China,12/1/2023,Net Electricity Production,Nuclear,35777.5413,GWh
+China,12/1/2023,Net Electricity Production,Total Combustible Fuels,586472.3465,GWh
+China,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",541518.7835,GWh
+China,12/1/2023,Net Electricity Production,Oil and Petroleum Products,1140.1956,GWh
+China,12/1/2023,Net Electricity Production,Natural Gas,26785.685,GWh
+China,12/1/2023,Net Electricity Production,Combustible Renewables,16363.0588,GWh
+China,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,664.6236,GWh
+China,12/1/2023,Net Electricity Production,Hydro,84195.6893,GWh
+China,12/1/2023,Net Electricity Production,Wind,98957.0694,GWh
+China,12/1/2023,Net Electricity Production,Solar,39256.5622,GWh
+China,12/1/2023,Net Electricity Production,Geothermal,9.3919,GWh
+China,12/1/2023,Net Electricity Production,Other Renewables,1.0592,GWh
+China,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",238782.8306,GWh
+Croatia,12/1/2023,Net Electricity Production,Electricity,1544.4241,GWh
+Croatia,12/1/2023,Net Electricity Production,Total Combustible Fuels,393.6515,GWh
+Croatia,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",35.6966,GWh
+Croatia,12/1/2023,Net Electricity Production,Oil and Petroleum Products,11.7168,GWh
+Croatia,12/1/2023,Net Electricity Production,Natural Gas,262.8578,GWh
+Croatia,12/1/2023,Net Electricity Production,Combustible Renewables,83.3803,GWh
+Croatia,12/1/2023,Net Electricity Production,Hydro,877.2201,GWh
+Croatia,12/1/2023,Net Electricity Production,Wind,242.7066,GWh
+Croatia,12/1/2023,Net Electricity Production,Solar,30.8459,GWh
+Croatia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",1234.153,GWh
+Cyprus,12/1/2023,Net Electricity Production,Electricity,389.7254,GWh
+Cyprus,12/1/2023,Net Electricity Production,Total Combustible Fuels,311.2724,GWh
+Cyprus,12/1/2023,Net Electricity Production,Oil and Petroleum Products,308.3911,GWh
+Cyprus,12/1/2023,Net Electricity Production,Combustible Renewables,2.8813,GWh
+Cyprus,12/1/2023,Net Electricity Production,Wind,15.372,GWh
+Cyprus,12/1/2023,Net Electricity Production,Solar,63.081,GWh
+Cyprus,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",81.3343,GWh
+India,12/1/2023,Net Electricity Production,Electricity,141549.5236,GWh
+India,12/1/2023,Net Electricity Production,Nuclear,4020.2014,GWh
+India,12/1/2023,Net Electricity Production,Total Combustible Fuels,115956.9445,GWh
+India,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",105615.4092,GWh
+India,12/1/2023,Net Electricity Production,Oil and Petroleum Products,549.778,GWh
+India,12/1/2023,Net Electricity Production,Natural Gas,5164.771,GWh
+India,12/1/2023,Net Electricity Production,Combustible Renewables,4479.9516,GWh
+India,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,147.0348,GWh
+India,12/1/2023,Net Electricity Production,Hydro,6716.4527,GWh
+India,12/1/2023,Net Electricity Production,Wind,5780.4424,GWh
+India,12/1/2023,Net Electricity Production,Solar,9075.4826,GWh
+India,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",26052.3293,GWh
+Malta,12/1/2023,Net Electricity Production,Electricity,134.3419,GWh
+Malta,12/1/2023,Net Electricity Production,Total Combustible Fuels,125.1551,GWh
+Malta,12/1/2023,Net Electricity Production,Oil and Petroleum Products,0.1386,GWh
+Malta,12/1/2023,Net Electricity Production,Natural Gas,125.0165,GWh
+Malta,12/1/2023,Net Electricity Production,Solar,9.1868,GWh
+Malta,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",9.1868,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Electricity,530.985,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Total Combustible Fuels,328.2229,GWh
+North Macedonia,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",246.7788,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Oil and Petroleum Products,7.9746,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Natural Gas,67.6922,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Combustible Renewables,5.7773,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Hydro,167.5561,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Wind,16.6289,GWh
+North Macedonia,12/1/2023,Net Electricity Production,Solar,18.577,GWh
+North Macedonia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",208.5394,GWh
+Peru,12/1/2023,Net Electricity Production,Electricity,5245.049,GWh
+Peru,12/1/2023,Net Electricity Production,Total Combustible Fuels,1627.5694,GWh
+Peru,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",20.3389,GWh
+Peru,12/1/2023,Net Electricity Production,Oil and Petroleum Products,21.6563,GWh
+Peru,12/1/2023,Net Electricity Production,Natural Gas,1542.4616,GWh
+Peru,12/1/2023,Net Electricity Production,Combustible Renewables,43.1126,GWh
+Peru,12/1/2023,Net Electricity Production,Hydro,3251.7906,GWh
+Peru,12/1/2023,Net Electricity Production,Wind,252.0476,GWh
+Peru,12/1/2023,Net Electricity Production,Solar,113.6414,GWh
+Peru,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",3660.5921,GWh
+Serbia,12/1/2023,Net Electricity Production,Electricity,3771.7033,GWh
+Serbia,12/1/2023,Net Electricity Production,Total Combustible Fuels,2137.0302,GWh
+Serbia,12/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1960.6422,GWh
+Serbia,12/1/2023,Net Electricity Production,Oil and Petroleum Products,0.5924,GWh
+Serbia,12/1/2023,Net Electricity Production,Natural Gas,151.9354,GWh
+Serbia,12/1/2023,Net Electricity Production,Combustible Renewables,23.4631,GWh
+Serbia,12/1/2023,Net Electricity Production,Other Combustible Non-Renewables,0.3972,GWh
+Serbia,12/1/2023,Net Electricity Production,Hydro,1516.0018,GWh
+Serbia,12/1/2023,Net Electricity Production,Wind,115.9823,GWh
+Serbia,12/1/2023,Net Electricity Production,Solar,2.689,GWh
+Serbia,12/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",1658.1362,GWh
+Australia,11/1/2023,Net Electricity Production,Electricity,21015.1401,GWh
+Australia,11/1/2023,Net Electricity Production,Total Combustible Fuels,12598.4752,GWh
+Australia,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",8987.7615,GWh
+Australia,11/1/2023,Net Electricity Production,Oil and Petroleum Products,288.4956,GWh
+Australia,11/1/2023,Net Electricity Production,Natural Gas,3080.7584,GWh
+Australia,11/1/2023,Net Electricity Production,Combustible Renewables,241.4597,GWh
+Australia,11/1/2023,Net Electricity Production,Hydro,1142.2424,GWh
+Australia,11/1/2023,Net Electricity Production,Wind,2375.5058,GWh
+Australia,11/1/2023,Net Electricity Production,Solar,4898.9167,GWh
+Australia,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",8658.1245,GWh
+Australia,11/1/2023,Used for pumped storage,Electricity,56.1025,GWh
+Australia,11/1/2023,Distribution Losses,Electricity,921.5341,GWh
+Australia,11/1/2023,Final Consumption (Calculated),Electricity,20037.5034,GWh
+Austria,11/1/2023,Net Electricity Production,Electricity,6253.6453,GWh
+Austria,11/1/2023,Net Electricity Production,Total Combustible Fuels,1508.5139,GWh
+Austria,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",154.3533,GWh
+Austria,11/1/2023,Net Electricity Production,Oil and Petroleum Products,67.136,GWh
+Austria,11/1/2023,Net Electricity Production,Natural Gas,810.2721,GWh
+Austria,11/1/2023,Net Electricity Production,Combustible Renewables,411.382,GWh
+Austria,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,65.3706,GWh
+Austria,11/1/2023,Net Electricity Production,Hydro,3755.6623,GWh
+Austria,11/1/2023,Net Electricity Production,Wind,892.9906,GWh
+Austria,11/1/2023,Net Electricity Production,Solar,95.3525,GWh
+Austria,11/1/2023,Net Electricity Production,Geothermal,0.0025,GWh
+Austria,11/1/2023,Net Electricity Production,Not Specified,1.1236,GWh
+Austria,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",5155.3899,GWh
+Austria,11/1/2023,Total Imports,Electricity,1646.8818,GWh
+Austria,11/1/2023,Total Exports,Electricity,1854.8747,GWh
+Austria,11/1/2023,Used for pumped storage,Electricity,453.7121,GWh
+Austria,11/1/2023,Distribution Losses,Electricity,273.6563,GWh
+Austria,11/1/2023,Final Consumption (Calculated),Electricity,5318.284,GWh
+Belgium,11/1/2023,Net Electricity Production,Electricity,6542.3624,GWh
+Belgium,11/1/2023,Net Electricity Production,Nuclear,2835.0274,GWh
+Belgium,11/1/2023,Net Electricity Production,Total Combustible Fuels,1482.1121,GWh
+Belgium,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",1.4582,GWh
+Belgium,11/1/2023,Net Electricity Production,Oil and Petroleum Products,6.1073,GWh
+Belgium,11/1/2023,Net Electricity Production,Natural Gas,1175.0107,GWh
+Belgium,11/1/2023,Net Electricity Production,Combustible Renewables,224.7808,GWh
+Belgium,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,74.7551,GWh
+Belgium,11/1/2023,Net Electricity Production,Hydro,160.89,GWh
+Belgium,11/1/2023,Net Electricity Production,Wind,1843.0077,GWh
+Belgium,11/1/2023,Net Electricity Production,Solar,203.8206,GWh
+Belgium,11/1/2023,Net Electricity Production,Not Specified,17.5045,GWh
+Belgium,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",2432.499,GWh
+Belgium,11/1/2023,Total Imports,Electricity,1636.3707,GWh
+Belgium,11/1/2023,Total Exports,Electricity,1357.27,GWh
+Belgium,11/1/2023,Used for pumped storage,Electricity,154.1982,GWh
+Belgium,11/1/2023,Distribution Losses,Electricity,275.8656,GWh
+Belgium,11/1/2023,Final Consumption (Calculated),Electricity,6391.3993,GWh
+Canada,11/1/2023,Net Electricity Production,Electricity,52490.154,GWh
+Canada,11/1/2023,Net Electricity Production,Nuclear,6882.8069,GWh
+Canada,11/1/2023,Net Electricity Production,Total Combustible Fuels,10917.4699,GWh
+Canada,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",2978.5136,GWh
+Canada,11/1/2023,Net Electricity Production,Oil and Petroleum Products,370.1526,GWh
+Canada,11/1/2023,Net Electricity Production,Natural Gas,6681.8554,GWh
+Canada,11/1/2023,Net Electricity Production,Combustible Renewables,875.7079,GWh
+Canada,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,11.2403,GWh
+Canada,11/1/2023,Net Electricity Production,Hydro,29785.9133,GWh
+Canada,11/1/2023,Net Electricity Production,Wind,4437.0281,GWh
+Canada,11/1/2023,Net Electricity Production,Solar,432.6026,GWh
+Canada,11/1/2023,Net Electricity Production,Not Specified,34.3333,GWh
+Canada,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",35531.2518,GWh
+Canada,11/1/2023,Total Imports,Electricity,2190.511,GWh
+Canada,11/1/2023,Total Exports,Electricity,3162.392,GWh
+Canada,11/1/2023,Used for pumped storage,Electricity,16.5008,GWh
+Canada,11/1/2023,Distribution Losses,Electricity,2869.6753,GWh
+Canada,11/1/2023,Final Consumption (Calculated),Electricity,48632.097,GWh
+Chile,11/1/2023,Net Electricity Production,Electricity,7261.372,GWh
+Chile,11/1/2023,Net Electricity Production,Total Combustible Fuels,1817.0908,GWh
+Chile,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",893.924,GWh
+Chile,11/1/2023,Net Electricity Production,Oil and Petroleum Products,17.6503,GWh
+Chile,11/1/2023,Net Electricity Production,Natural Gas,537.271,GWh
+Chile,11/1/2023,Net Electricity Production,Combustible Renewables,368.2455,GWh
+Chile,11/1/2023,Net Electricity Production,Hydro,3070.5198,GWh
+Chile,11/1/2023,Net Electricity Production,Wind,897.9546,GWh
+Chile,11/1/2023,Net Electricity Production,Solar,1434.2718,GWh
+Chile,11/1/2023,Net Electricity Production,Geothermal,41.5351,GWh
+Chile,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",5812.5267,GWh
+Chile,11/1/2023,Distribution Losses,Electricity,348.8675,GWh
+Chile,11/1/2023,Final Consumption (Calculated),Electricity,6912.5045,GWh
+Colombia,11/1/2023,Net Electricity Production,Electricity,7325.7009,GWh
+Colombia,11/1/2023,Net Electricity Production,Total Combustible Fuels,2676.0382,GWh
+Colombia,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",789.3141,GWh
+Colombia,11/1/2023,Net Electricity Production,Oil and Petroleum Products,402.5194,GWh
+Colombia,11/1/2023,Net Electricity Production,Natural Gas,1302.7918,GWh
+Colombia,11/1/2023,Net Electricity Production,Combustible Renewables,181.413,GWh
+Colombia,11/1/2023,Net Electricity Production,Hydro,4598.4831,GWh
+Colombia,11/1/2023,Net Electricity Production,Solar,51.1796,GWh
+Colombia,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4831.0756,GWh
+Colombia,11/1/2023,Total Imports,Electricity,0.1075,GWh
+Colombia,11/1/2023,Total Exports,Electricity,140.0235,GWh
+Colombia,11/1/2023,Distribution Losses,Electricity,394.8563,GWh
+Colombia,11/1/2023,Final Consumption (Calculated),Electricity,6790.9286,GWh
+Costa Rica,11/1/2023,Remarks,Data is estimated for this month,,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Electricity,1041.2975,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Total Combustible Fuels,0.4076,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Oil and Petroleum Products,0.3157,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Combustible Renewables,0.0919,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Hydro,857.9155,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Wind,93.8975,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Solar,5.9772,GWh
+Costa Rica,11/1/2023,Net Electricity Production,Geothermal,83.0997,GWh
+Costa Rica,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",1040.9817,GWh
+Costa Rica,11/1/2023,Final Consumption (Calculated),Electricity,1041.2975,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Electricity,6367.5453,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Nuclear,2513.4328,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Total Combustible Fuels,3408.7594,GWh
+Czech Republic,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",2733.3513,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Oil and Petroleum Products,7.6491,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Natural Gas,259.8786,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Combustible Renewables,398.5055,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,9.3748,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Hydro,284.6996,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Wind,78.8929,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Solar,71.5844,GWh
+Czech Republic,11/1/2023,Net Electricity Production,Not Specified,10.1762,GWh
+Czech Republic,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",833.6823,GWh
+Czech Republic,11/1/2023,Total Imports,Electricity,1174.7703,GWh
+Czech Republic,11/1/2023,Total Exports,Electricity,2081.3547,GWh
+Czech Republic,11/1/2023,Used for pumped storage,Electricity,128.9526,GWh
+Czech Republic,11/1/2023,Distribution Losses,Electricity,281.2841,GWh
+Czech Republic,11/1/2023,Final Consumption (Calculated),Electricity,5050.7242,GWh
+Denmark,11/1/2023,Net Electricity Production,Electricity,2838.5639,GWh
+Denmark,11/1/2023,Net Electricity Production,Total Combustible Fuels,1096.9241,GWh
+Denmark,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",159.3158,GWh
+Denmark,11/1/2023,Net Electricity Production,Oil and Petroleum Products,18.6455,GWh
+Denmark,11/1/2023,Net Electricity Production,Natural Gas,103.583,GWh
+Denmark,11/1/2023,Net Electricity Production,Combustible Renewables,759.5878,GWh
+Denmark,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,55.792,GWh
+Denmark,11/1/2023,Net Electricity Production,Hydro,2.475,GWh
+Denmark,11/1/2023,Net Electricity Production,Wind,1686.2176,GWh
+Denmark,11/1/2023,Net Electricity Production,Solar,52.9472,GWh
+Denmark,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",2501.2276,GWh
+Denmark,11/1/2023,Total Imports,Electricity,1553.1575,GWh
+Denmark,11/1/2023,Total Exports,Electricity,935.9839,GWh
+Denmark,11/1/2023,Distribution Losses,Electricity,368.2241,GWh
+Denmark,11/1/2023,Final Consumption (Calculated),Electricity,3087.5134,GWh
+Estonia,11/1/2023,Net Electricity Production,Electricity,412.459,GWh
+Estonia,11/1/2023,Net Electricity Production,Total Combustible Fuels,356.5498,GWh
+Estonia,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",243.125,GWh
+Estonia,11/1/2023,Net Electricity Production,Oil and Petroleum Products,2.1353,GWh
+Estonia,11/1/2023,Net Electricity Production,Natural Gas,2.419,GWh
+Estonia,11/1/2023,Net Electricity Production,Combustible Renewables,103.4798,GWh
+Estonia,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,5.3907,GWh
+Estonia,11/1/2023,Net Electricity Production,Hydro,3.6316,GWh
+Estonia,11/1/2023,Net Electricity Production,Wind,48.0045,GWh
+Estonia,11/1/2023,Net Electricity Production,Solar,4.2732,GWh
+Estonia,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",159.3891,GWh
+Estonia,11/1/2023,Total Imports,Electricity,681.9477,GWh
+Estonia,11/1/2023,Total Exports,Electricity,327.0282,GWh
+Estonia,11/1/2023,Distribution Losses,Electricity,37.478,GWh
+Estonia,11/1/2023,Final Consumption (Calculated),Electricity,729.9006,GWh
+Finland,11/1/2023,Net Electricity Production,Electricity,7404.5146,GWh
+Finland,11/1/2023,Net Electricity Production,Nuclear,2956.3441,GWh
+Finland,11/1/2023,Net Electricity Production,Total Combustible Fuels,1660.9254,GWh
+Finland,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",334.3937,GWh
+Finland,11/1/2023,Net Electricity Production,Oil and Petroleum Products,12.2387,GWh
+Finland,11/1/2023,Net Electricity Production,Natural Gas,72.9607,GWh
+Finland,11/1/2023,Net Electricity Production,Combustible Renewables,1200.4099,GWh
+Finland,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,40.9223,GWh
+Finland,11/1/2023,Net Electricity Production,Hydro,1400.2105,GWh
+Finland,11/1/2023,Net Electricity Production,Wind,1364.7441,GWh
+Finland,11/1/2023,Net Electricity Production,Solar,4.7071,GWh
+Finland,11/1/2023,Net Electricity Production,Not Specified,17.5833,GWh
+Finland,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",3970.0717,GWh
+Finland,11/1/2023,Total Imports,Electricity,1117.5224,GWh
+Finland,11/1/2023,Total Exports,Electricity,693.8521,GWh
+Finland,11/1/2023,Distribution Losses,Electricity,317.6342,GWh
+Finland,11/1/2023,Final Consumption (Calculated),Electricity,7510.5507,GWh
+France,11/1/2023,Net Electricity Production,Electricity,46263.1768,GWh
+France,11/1/2023,Net Electricity Production,Nuclear,27580,GWh
+France,11/1/2023,Net Electricity Production,Total Combustible Fuels,4441.561,GWh
+France,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",221.2352,GWh
+France,11/1/2023,Net Electricity Production,Oil and Petroleum Products,481.9598,GWh
+France,11/1/2023,Net Electricity Production,Natural Gas,2813.8704,GWh
+France,11/1/2023,Net Electricity Production,Combustible Renewables,749.0891,GWh
+France,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,175.4064,GWh
+France,11/1/2023,Net Electricity Production,Hydro,6743.8179,GWh
+France,11/1/2023,Net Electricity Production,Wind,6414.9984,GWh
+France,11/1/2023,Net Electricity Production,Solar,991.3455,GWh
+France,11/1/2023,Net Electricity Production,Geothermal,7.9717,GWh
+France,11/1/2023,Net Electricity Production,Other Renewables,39.8221,GWh
+France,11/1/2023,Net Electricity Production,Not Specified,43.6602,GWh
+France,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",14947.0447,GWh
+France,11/1/2023,Total Imports,Electricity,1616.0797,GWh
+France,11/1/2023,Total Exports,Electricity,6888.6593,GWh
+France,11/1/2023,Used for pumped storage,Electricity,605.8379,GWh
+France,11/1/2023,Distribution Losses,Electricity,3495.3136,GWh
+France,11/1/2023,Final Consumption (Calculated),Electricity,36889.4457,GWh
+Germany,11/1/2023,Net Electricity Production,Electricity,44209.1532,GWh
+Germany,11/1/2023,Net Electricity Production,Total Combustible Fuels,23808.9254,GWh
+Germany,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",11747.2201,GWh
+Germany,11/1/2023,Net Electricity Production,Oil and Petroleum Products,388.9805,GWh
+Germany,11/1/2023,Net Electricity Production,Natural Gas,7362.1766,GWh
+Germany,11/1/2023,Net Electricity Production,Combustible Renewables,3813.3439,GWh
+Germany,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,497.2043,GWh
+Germany,11/1/2023,Net Electricity Production,Hydro,2284.6016,GWh
+Germany,11/1/2023,Net Electricity Production,Wind,16474.7772,GWh
+Germany,11/1/2023,Net Electricity Production,Solar,1484.5934,GWh
+Germany,11/1/2023,Net Electricity Production,Geothermal,14.2212,GWh
+Germany,11/1/2023,Net Electricity Production,Not Specified,142.0345,GWh
+Germany,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",24071.5372,GWh
+Germany,11/1/2023,Total Imports,Electricity,4981.2649,GWh
+Germany,11/1/2023,Total Exports,Electricity,5348.8691,GWh
+Germany,11/1/2023,Used for pumped storage,Electricity,608.7176,GWh
+Germany,11/1/2023,Distribution Losses,Electricity,2355.3032,GWh
+Germany,11/1/2023,Final Consumption (Calculated),Electricity,40877.5282,GWh
+Greece,11/1/2023,Net Electricity Production,Electricity,3565.081,GWh
+Greece,11/1/2023,Net Electricity Production,Total Combustible Fuels,1539.0624,GWh
+Greece,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",357.05,GWh
+Greece,11/1/2023,Net Electricity Production,Oil and Petroleum Products,130.0585,GWh
+Greece,11/1/2023,Net Electricity Production,Natural Gas,996.136,GWh
+Greece,11/1/2023,Net Electricity Production,Combustible Renewables,52.4908,GWh
+Greece,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,3.3271,GWh
+Greece,11/1/2023,Net Electricity Production,Hydro,334.6036,GWh
+Greece,11/1/2023,Net Electricity Production,Wind,1166.0278,GWh
+Greece,11/1/2023,Net Electricity Production,Solar,525.3872,GWh
+Greece,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",2078.5094,GWh
+Greece,11/1/2023,Total Imports,Electricity,460.9926,GWh
+Greece,11/1/2023,Total Exports,Electricity,172.6914,GWh
+Greece,11/1/2023,Used for pumped storage,Electricity,42.939,GWh
+Greece,11/1/2023,Distribution Losses,Electricity,299.9377,GWh
+Greece,11/1/2023,Final Consumption (Calculated),Electricity,3510.5054,GWh
+Hungary,11/1/2023,Net Electricity Production,Electricity,2689.2202,GWh
+Hungary,11/1/2023,Net Electricity Production,Nuclear,1227.7935,GWh
+Hungary,11/1/2023,Net Electricity Production,Total Combustible Fuels,1058.0476,GWh
+Hungary,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",217.2709,GWh
+Hungary,11/1/2023,Net Electricity Production,Oil and Petroleum Products,2.5685,GWh
+Hungary,11/1/2023,Net Electricity Production,Natural Gas,687.1677,GWh
+Hungary,11/1/2023,Net Electricity Production,Combustible Renewables,129.8573,GWh
+Hungary,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,21.1832,GWh
+Hungary,11/1/2023,Net Electricity Production,Hydro,17.8661,GWh
+Hungary,11/1/2023,Net Electricity Production,Wind,74.8084,GWh
+Hungary,11/1/2023,Net Electricity Production,Solar,298.8276,GWh
+Hungary,11/1/2023,Net Electricity Production,Geothermal,0.6271,GWh
+Hungary,11/1/2023,Net Electricity Production,Not Specified,11.25,GWh
+Hungary,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",521.9864,GWh
+Hungary,11/1/2023,Total Imports,Electricity,1959.4488,GWh
+Hungary,11/1/2023,Total Exports,Electricity,696.5649,GWh
+Hungary,11/1/2023,Distribution Losses,Electricity,223.2272,GWh
+Hungary,11/1/2023,Final Consumption (Calculated),Electricity,3728.8769,GWh
+Iceland,11/1/2023,Net Electricity Production,Electricity,1606.7101,GWh
+Iceland,11/1/2023,Net Electricity Production,Total Combustible Fuels,0.1028,GWh
+Iceland,11/1/2023,Net Electricity Production,Oil and Petroleum Products,0.1028,GWh
+Iceland,11/1/2023,Net Electricity Production,Hydro,1130.3386,GWh
+Iceland,11/1/2023,Net Electricity Production,Wind,1.156,GWh
+Iceland,11/1/2023,Net Electricity Production,Geothermal,475.1128,GWh
+Iceland,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",1606.6073,GWh
+Iceland,11/1/2023,Distribution Losses,Electricity,43.9385,GWh
+Iceland,11/1/2023,Final Consumption (Calculated),Electricity,1562.7716,GWh
+Ireland,11/1/2023,Net Electricity Production,Electricity,2695.2698,GWh
+Ireland,11/1/2023,Net Electricity Production,Total Combustible Fuels,1349.836,GWh
+Ireland,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",88.8176,GWh
+Ireland,11/1/2023,Net Electricity Production,Oil and Petroleum Products,22.4293,GWh
+Ireland,11/1/2023,Net Electricity Production,Natural Gas,1144.0777,GWh
+Ireland,11/1/2023,Net Electricity Production,Combustible Renewables,74.9371,GWh
+Ireland,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,19.5744,GWh
+Ireland,11/1/2023,Net Electricity Production,Hydro,142.8371,GWh
+Ireland,11/1/2023,Net Electricity Production,Wind,1199.9439,GWh
+Ireland,11/1/2023,Net Electricity Production,Solar,2.6529,GWh
+Ireland,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",1420.3709,GWh
+Ireland,11/1/2023,Total Imports,Electricity,350.8997,GWh
+Ireland,11/1/2023,Total Exports,Electricity,32.7959,GWh
+Ireland,11/1/2023,Used for pumped storage,Electricity,40.8892,GWh
+Ireland,11/1/2023,Distribution Losses,Electricity,221.8521,GWh
+Ireland,11/1/2023,Final Consumption (Calculated),Electricity,2750.6323,GWh
+Italy,11/1/2023,Net Electricity Production,Electricity,20627.347,GWh
+Italy,11/1/2023,Net Electricity Production,Total Combustible Fuels,11340.0822,GWh
+Italy,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",966.4952,GWh
+Italy,11/1/2023,Net Electricity Production,Oil and Petroleum Products,469.9099,GWh
+Italy,11/1/2023,Net Electricity Production,Natural Gas,8733.2612,GWh
+Italy,11/1/2023,Net Electricity Production,Combustible Renewables,1026.1057,GWh
+Italy,11/1/2023,Net Electricity Production,Other Combustible Non-Renewables,144.3102,GWh
+Italy,11/1/2023,Net Electricity Production,Hydro,4309.319,GWh
+Italy,11/1/2023,Net Electricity Production,Wind,2983.0565,GWh
+Italy,11/1/2023,Net Electricity Production,Solar,1507.3613,GWh
+Italy,11/1/2023,Net Electricity Production,Geothermal,444.5227,GWh
+Italy,11/1/2023,Net Electricity Production,Not Specified,43.0052,GWh
+Italy,11/1/2023,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",10270.3652,GWh
+Italy,11/1/2023,Total Imports,Electricity,4811.1052,GWh
+Italy,11/1/2023,Total Exports,Electricity,266.9095,GWh
+Italy,11/1/2023,Used for pumped storage,Electricity,189.9368,GWh
+Italy,11/1/2023,Distribution Losses,Electricity,1474.5695,GWh
+Italy,11/1/2023,Final Consumption (Calculated),Electricity,23507.0362,GWh
+Japan,11/1/2023,Net Electricity Production,Electricity,75022.586,GWh
+Japan,11/1/2023,Net Electricity Production,Nuclear,6501.9495,GWh
+Japan,11/1/2023,Net Electricity Production,Total Combustible Fuels,53851.9084,GWh
+Japan,11/1/2023,Net Electricity Production,"Coal, Peat and Manufactured Gases",22548.3238,GWh
+Japan,11/1/2023,Net Electricity Production,Oil and Petroleum Products,1399.6026,GWh
