@@ -148,11 +148,32 @@ The final solution is based on **Power Query and Power Pivot**.
 - time-stable KPI design
 - structured technical documentation
 
-## Technical documentation
+---
 
-- [Data loading and transformation](03_etl/etl.md)
-- [Data model overview](04_data_model/model_overview.md)
-- [DAX measures and KPI logic](05_dax/dax.md)
-- [Dashboard](06_dashboard/dashboard_overview.md)
-- [Preliminary version](/00_legacy_excel_traditional)
-- *[Original dataset](https://www.kaggle.com/datasets/sazidthe1/global-electricity-production)*
+## Further Documentation & Deep Dives
+
+Additional documentation and project structure:
+
+- **Raw source data (CSV)**  
+  [`01_raw_data/`](01_raw_data/)
+
+- **Legacy Excel-based analysis**  
+  [`00_legacy_excel_traditional/README.md`](00_legacy_excel_traditional/README.md)
+
+- **Power Query ETL documentation**  
+  [`03_etl/etl.md`](03_etl/etl.md)
+
+- **Data model documentation**  
+  [`04_data_model/model_overview.md`](04_data_model/model_overview.md)
+
+- **DAX measures documentation**  
+  [`05_dax/dax.md`](05_dax/dax.md)
+
+- **Dashboard explanation**  
+  [`06_dashboard/dashboard_overview.md`](06_dashboard/dashboard_overview.md)
+
+This project is part of a broader analytical portfolio that also includes:
+- [`nyc_restaurant_inspections_sql`](../nyc_restaurant_inspections_sql)
+- [`nyc_restaurant_inspections_powerbi`](../nyc_restaurant_inspections_powerbi)
+
+
