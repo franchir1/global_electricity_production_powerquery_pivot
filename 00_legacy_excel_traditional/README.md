@@ -1,71 +1,77 @@
-# Global Electricity Production Report – Dashboard interattiva in Excel
+# Global Electricity Production Report – Interactive Excel Dashboard
 
-Questo progetto riguarda l'analisi e la visualizzazione di dati sulla produzione globale di energia elettrica, con focus sui trend di produzione da fonti rinnovabili. Ho costruito una dashboard interattiva che consente di esplorare i dati per paese e per fonte energetica.
+This project focuses on the analysis and visualization of global electricity production data, with a specific emphasis on renewable energy production trends. An interactive dashboard was built to allow data exploration by country and by energy source.
 
-Il dataset è scaricabile gratuitamente al seguente link: https://www.kaggle.com/datasets/sazidthe1/global-electricity-production
+The dataset can be freely downloaded at the following link:
+[https://www.kaggle.com/datasets/sazidthe1/global-electricity-production](https://www.kaggle.com/datasets/sazidthe1/global-electricity-production)
 
-## Obiettivi del progetto
+## Project objectives
 
-- Identificare i principali produttori mondiali (top 15 -> 90% della produzione globale), con le relative quote di produzione.
-- Creare una dashboard interattiva per:
--   Identificare per ciascun paese le quote di produzione di energia elettrica da fonti rinnovabili in relazione alla produzione di energia elettrica totale.
--   Mostrare per ciascun paese le quote di produzione e i trend di crescita da fonti specifiche.
+* Identify the main global producers (top 15 → 90% of global production), along with their respective production shares.
+* Create an interactive dashboard to:
+* Identify, for each country, the share of electricity production from renewable sources relative to total electricity production.
+* Show, for each country, production shares and growth trends by specific energy sources.
 
-## Indice
+## Index
 
-- [Global Electricity Production Report – Dashboard interattiva in Excel](#global-electricity-production-report--dashboard-interattiva-in-excel)
-  - [Obiettivi del progetto](#obiettivi-del-progetto)
-  - [Indice](#indice)
-  - [Riassunto del progetto](#riassunto-del-progetto)
-    - [Pulizia dei dati](#pulizia-dei-dati)
-    - [Creazione e ordinamento delle liste](#creazione-e-ordinamento-delle-liste)
-    - [Studio Top 15](#studio-top-15)
-    - [Analisi](#analisi)
-    - [Dashboard interattiva](#dashboard-interattiva)
+- [Global Electricity Production Report – Interactive Excel Dashboard](#global-electricity-production-report--interactive-excel-dashboard)
+  - [Project objectives](#project-objectives)
+  - [Index](#index)
+  - [Project summary](#project-summary)
+    - [Data cleaning](#data-cleaning)
+    - [List creation and sorting](#list-creation-and-sorting)
+    - [Top 15 study](#top-15-study)
+    - [Analysis](#analysis)
+    - [Interactive dashboard](#interactive-dashboard)
 
-## Riassunto del progetto
+## Project summary
 
-### Pulizia dei dati
-![Pulizia dei dati](01_Data_cleaning.png)
+### Data cleaning
 
-1. Caricamento del .csv con PowerQuery.
-2. Filtrazione di tutte le voci non necessarie.
-3. Conversione dei valori nei formati corretti.
-4. Aggiunta di colonne di supporto per facilitare le operazioni successive di somma condizionale.
+![Data cleaning](01_Data_cleaning.png)
 
-<details>
-  <summary>Dettagli tecnici:</summary>
-
-Utilizzata la funzione `SORT(UNIQUE())` per la raccolta e l'organizzazione delle voci all'interno del dataset.
-
-</details>
-
----
-### Creazione e ordinamento delle liste
-![Creazione liste](02_List.png)
-
-1. Estrapolazione, aggregazione e ordinamento di dati fondamentali quali: paese, anno, tipo di fonte energetica.
-2. Discriminazione tra fonti rinnovabili e non rinnovabili.
+1. Loading the `.csv` file using Power Query.
+2. Filtering out all unnecessary entries.
+3. Converting values into the correct formats.
+4. Adding helper columns to facilitate subsequent conditional summation operations.
 
 <details>
-  <summary>Dettagli tecnici:</summary>
+  <summary>Technical details:</summary>
 
-1. Utilizzo di funzioni `ISNUMBER(MATCH())` per la generazione della colonna di supporto *is_renewable*. Questa colonna di supporto al dataset ci consentirà la discriminazione tra rinnovabili e non rinnovabili.
-2. Poichè siamo interessati ad aggregare i valori di energia prodotta anno per anno, estraiamo l'anno dalla colonna *date* con la funzione `YEAR()`
+The `SORT(UNIQUE())` function was used to collect and organize entries within the dataset.
 
 </details>
 
 ---
 
-### Studio Top 15
-![Studio Top 15](03_Study.png)
+### List creation and sorting
 
-Al fine di semplificare l'analisi, sono stati considerati soltanto i primi 15 paesi per produzione di energia elettrica, poichè da soli contribuiscono per il 90% della produzione di energia elettrica totale.
+![List creation](02_List.png)
+
+1. Extraction, aggregation, and sorting of key data such as country, year, and energy source type.
+2. Discrimination between renewable and non-renewable sources.
 
 <details>
-  <summary>Dettagli tecnici:</summary>
+  <summary>Technical details:</summary>
 
-Per verificarlo, è stata calcolata una tabella con le produzioni totali anno per anno di ciascun paese tramite la funzione di seguito riportata:
+1. The `ISNUMBER(MATCH())` function was used to generate the helper column *is_renewable*. This helper column allows discrimination between renewable and non-renewable sources.
+2. Since the analysis focuses on aggregating energy production values year by year, the year was extracted from the *date* column using the `YEAR()` function.
+
+</details>
+
+---
+
+### Top 15 study
+
+![Top 15 study](03_Study.png)
+
+To simplify the analysis, only the top 15 countries by electricity production were considered, as they alone contribute 90% of total global electricity production.
+
+<details>
+  <summary>Technical details:</summary>
+
+To verify this, a table with total yearly production for each country was calculated using the following function:
+
 ```
 IFERROR(
 SUMIFS(
@@ -74,30 +80,36 @@ global_electricity_production!$A$2:$A$121070;"="&study!$B3;
 global_electricity_production!$B$2:$B$121070;"="&study!C$2);
 NA())
 ```
-impostando come condizioni il paese e l'anno di produzione.
 
-Da qui in avanti, saranno trascurati i valori dal 2010 al 2014, poichè non disponibili per alcuni paesi della lista.
+using country and production year as conditions.
 
-Sono state poi calcolate le medie di produzione nell'arco temporale selezionato e infine si sono raccolti i primi 15 valori con la funzione:
+From this point onward, values from 2010 to 2014 were excluded, as they were not available for some countries in the list.
+
+Average production values over the selected time window were then calculated, and the top 15 values were extracted using the function:
+
 ```
 =INDEX(SORT(Q3:Q50;1;-1;FALSE);SEQUENCE(15);1)
 ```
-Una funzione simile è stata usata per raccogliere e riordinare i nomi dei paesi.
+
+A similar function was used to retrieve and sort country names.
+
 </details>
 
 ---
 
-### Analisi
-![Analisi quote di produzione e tassi di crescita](04_Calculation.png)
+### Analysis
 
-In questa pagina si sono svolti i calcoli necessari per raggiungere gli altri due obiettivi del progetto.
+![Production share and growth rate analysis](04_Calculation.png)
 
-Si sono quindi stilate diverse tabelle che riportano le quantità di energia elettrica prodotte per anno e paese, sia da fonti rinnovabili che totali, e si sono in seguito ricavati i valori medi e le crescite di produzione medie dal 2015.
+This worksheet contains the calculations required to achieve the remaining project objectives.
+
+Several tables were created showing electricity production quantities by year and country, both from renewable sources and in total. Average values and average production growth rates since 2015 were then derived.
 
 <details>
-  <summary>Dettagli tecnici:</summary>
+  <summary>Technical details:</summary>
 
-Come per il capitolo precedente, si sono utilizzate delle somme condizionali:
+As in the previous section, conditional summations were used:
+
 ```
 =IF(
 
@@ -122,23 +134,26 @@ global_electricity_production!$F$2:$F$121070;"="&is_renewable
 
 NA())
 ```
-facendo però attenzione alla presenza di dati non disponibili che avrebbero potuto influenzare il calcolo dei valori medi. Impostando `NA()` come valore in caso di somma nulla, è possibile escludere la corrispondente cella dal calcolo della media.
 
-Le funzioni `SORT()` e `SORTBY()` sono state fondamentali per riordinare i risultati e poter visualizzare quindi eventuali grafici o classifiche sulla dashboard.
+Special attention was paid to missing data, which could have affected the calculation of average values. By returning `NA()` when the sum is zero, the corresponding cell is excluded from average calculations.
+
+The `SORT()` and `SORTBY()` functions were essential for reordering results and enabling the visualization of charts and rankings on the dashboard.
 
 </details>
 
 ---
 
-### Dashboard interattiva
-![Dashboard interattiva](05_Dashboard.png)
+### Interactive dashboard
 
-I dati ottenuti dall'analisi precedente sono stati infine richiamati in una pagina riassuntiva.
+![Interactive dashboard](05_Dashboard.png)
 
-La pagina si divide in due sezioni:
+The data obtained from the previous analysis were ultimately referenced in a summary dashboard sheet.
 
-- Sezione interattiva a sinistra:
-Sono disponibili due menu a tendina, *country* e *source*. Selezionando una specifica combinazione, le tabelle si ricalcolano per fornire dati generali sul paese selezionato e le classifiche in termini di quote e tassi di crescita della fonte energetica selezionata.
-- Sezione statica a destra:
-In alto sono mostrati i paesi con le produzioni di energia rinnovabile o con i tassi di crescita più alti.
-In basso è presente un grafico a barre che mostra la produzione media totale per ciascun paese, utile per mostrare visivamente la quota di energia rinnovabile generata rispetto a quella totale.
+The page is divided into two sections:
+
+* Interactive section on the left:
+  Two dropdown menus are available, *country* and *source*. Selecting a specific combination recalculates the tables to provide general data for the selected country and rankings in terms of production shares and growth rates for the selected energy source.
+
+* Static section on the right:
+  At the top, countries with the highest renewable energy production or highest growth rates are displayed.
+  At the bottom, a bar chart shows average total production for each country, which is useful to visually highlight the share of renewable energy generated relative to total production.
