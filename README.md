@@ -1,5 +1,3 @@
-English | [Italiano](/README.it.md)
-
 # Global electricity production – Data analysis with Excel Power Pivot
 
 Analysis of the evolution of global electricity production, with a focus on **energy transition** and the **stability of long-term trends**.
@@ -46,7 +44,7 @@ The transformation process was implemented entirely in **Power Query** and inclu
 4. extracting the year from the date
 5. creating dimension tables
 6. building the fact table with **surrogate keys**
-7. removing non-analytical fields
+7. excluding non-analytical fields from core KPIs
 
 The result is a **repeatable and stable data model**, optimized for long-term analysis.
 
