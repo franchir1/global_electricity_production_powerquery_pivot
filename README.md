@@ -154,11 +154,12 @@ The final solution is based on **Power Query and Power Pivot**.
 
 Additional documentation and project structure:
 
-- **Raw source data (CSV)**  
-  [`01_raw_data/`](01_raw_data/)
 
 - **Legacy Excel-based analysis**  
   [`00_legacy_excel_traditional/README.md`](00_legacy_excel_traditional/README.md)
+
+- **Raw source data (CSV)**  
+  [`01_raw_data/`](01_raw_data/global_electricity_production_data.csv)
 
 - **Power Query ETL documentation**  
   [`03_etl/etl.md`](03_etl/etl.md)
