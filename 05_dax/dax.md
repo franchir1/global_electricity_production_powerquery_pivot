@@ -152,4 +152,4 @@ RETURN
     )
 ```
 
-*Torna al [README](/readme.md)*
+*Back to the [README](/readme.md)*
