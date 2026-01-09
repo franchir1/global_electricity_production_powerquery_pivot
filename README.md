@@ -65,7 +65,7 @@ The model uses a **star schema**, composed of:
        width="650">
 </p>
 <p align="center">
-  <em>Star schema of the data model - fact table and dimensions</em>
+  <em>Data model layout</em>
 </p>
 
 Relationships are:
