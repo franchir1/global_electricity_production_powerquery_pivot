@@ -174,8 +174,4 @@ Full dataset available [here](https://www.kaggle.com/datasets/sazidthe1/global-e
 - **Dashboard explanation**  
   [`06_dashboard/dashboard_overview.md`](06_dashboard/dashboard_overview.md)
 
-This project is part of a broader analytical portfolio that also includes:
-- [`nyc_restaurant_inspections_sql`](../nyc_restaurant_inspections_sql)
-- [`nyc_restaurant_inspections_powerbi`](../nyc_restaurant_inspections_powerbi)
-
 
