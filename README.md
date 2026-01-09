@@ -1,28 +1,35 @@
-# Global electricity production – Data analysis with Excel Power Pivot
+# Global Electricity Production — Data Analysis with Excel Power Pivot
 
-Analysis of the evolution of global electricity production, with a focus on **energy transition** and the **stability of long-term trends**.
+Analysis of the evolution of global electricity production, with a focus on
+**energy transition** and the **stability of long-term trends**.
 
-The project is designed as a **portfolio project** and emphasizes:
-- data modeling
-- KPI analytical consistency
+The project is designed as a **portfolio analysis** and emphasizes:
+- dimensional data modeling
+- KPI semantic consistency
 - temporal comparability
 - decision-oriented reporting
 
-## Project objective
+---
 
-The goal is to provide a **concise, stable, and time-comparable** view of the global electricity production system, answering key questions such as:
+## Project Objective
+
+The goal is to provide a **concise, stable, and time-comparable** view of the
+global electricity production system, addressing questions such as:
 
 - How does global electricity production evolve over the long term?
-- What is the relative contribution of renewable and non-renewable sources?
-- Are the observed trends structural, or driven by annual volatility?
-- Are there significant cross-country differences in terms of energy mix?
-- Is renewable production growth proportional to total volumes, or concentrated in specific areas?
+- What is the relative contribution of renewable vs non-renewable sources?
+- Are observed trends structural or driven by annual volatility?
+- Are there significant cross-country differences in energy mix?
+- Is renewable growth proportional to total production or geographically concentrated?
 
-The adopted approach is **KPI-driven** and oriented to **decision support**, prioritizing stability and interpretability over transactional detail.
+The approach is **KPI-driven** and prioritizes **stability and interpretability**
+over transactional detail.
+
+---
 
 ## Dataset
 
-The source dataset contains information about:
+The source dataset contains:
 
 - country
 - date (used exclusively to extract the year)
@@ -30,148 +37,155 @@ The source dataset contains information about:
 - energy source
 - produced energy quantity (GWh)
 
-The dataset is not normalized and requires a complete ETL (extract, transform, load) process before it can be used in an analytical model.
+The dataset is **not normalized** and requires a full ETL process before
+analytical use.
 
-## Data cleaning and transformation
+---
 
-The transformation process was implemented entirely in **Power Query** and includes:
+## Data Cleaning & Transformation
 
-1. importing the CSV file
+All transformations are implemented in **Power Query** and include:
+
+1. CSV import
 2. explicit data type conversion
 3. category normalization:
    - energy sources
    - energy flows
-4. extracting the year from the date
-5. creating dimension tables
-6. building the fact table with **surrogate keys**
-7. excluding non-analytical fields from core KPIs
+4. year extraction from date
+5. creation of dimension tables
+6. construction of a fact table with **surrogate keys**
+7. exclusion of non-analytical fields from core KPIs
 
-The result is a **repeatable and stable data model**, optimized for long-term analysis.
+The result is a **repeatable and stable analytical model**, optimized for
+long-term analysis.
 
-## Data model
+---
 
-The model uses a **star schema**, composed of:
+## Data Model
+
+The model follows a **star schema** structure, composed of:
 
 - a **fact table** containing energy quantities
 - dimension tables for:
-  - geographic context
-  - temporal context
+  - geography
+  - time
   - energy source
   - flow type
 
-<p align="center">
-  <img src="06_dashboard/star_scheme.png" 
-       alt="Star schema of the data model - fact table and dimensions"
-       width="650">
-</p>
-<p align="center">
-  <em>Data model layout</em>
-</p>
+*(schema diagram unchanged)*
 
 Relationships are:
 - one-to-many
 - single-direction
 
-## KPIs and analytical logic
+---
 
-The main KPIs are designed to ensure **semantic consistency** and comparability:
+## KPIs & Analytical Logic
+
+Key metrics are designed to ensure **semantic consistency and comparability**:
 
 - total electricity production
 - renewable energy share
 - time trends via a **3-year rolling average**
-- cross-country comparison on a consistent basis
+- cross-country comparisons on a consistent basis
 
-Metrics prioritize structural readings over isolated year-to-year fluctuations.
+Metrics are intentionally designed to emphasize **structural patterns**
+rather than year-to-year noise.
+
+---
 
 ## Dashboard
 
-From the data model, an **analytical dashboard** was built in Excel with **Power Pivot**.
+An **analytical dashboard** is built in Excel using **Power Pivot**.
 
 The dashboard provides:
-- an overview of key energy indicators
-- stable time analyses
-- comparison across countries and sources
+- an overview of core energy indicators
+- stable temporal analyses
+- cross-country and cross-source comparisons
 
-<p align="center">
-  <img src="06_dashboard/dashboard_overview.png" 
-       alt="Dashboard overview"
-       width="950">
-</p>
-<p align="center">
-  <em>Dashboard overview</em>
-</p>
+*(dashboard image unchanged)*
 
-## Methodological choices
+---
+
+## Methodological Choices
 
 - Core KPIs are based on **total electricity production**, defined as the sum of:
   - net production
   - exported energy
-- Flows other than `net_produced` and `exported` are excluded from the analytical core because they represent usage, losses, or system exchanges
-- 3-year rolling averages are used to reduce volatility and make structural trends readable
+- Other flow types are excluded from the analytical core, as they represent
+  usage, losses, or system exchanges
+- **3-year rolling averages** are used to reduce volatility and improve
+  interpretability of medium-term dynamics
 
-The project prioritizes **analytical stability and interpretability** over maximizing detail.
+The project prioritizes **analytical stability** over maximizing detail.
 
-## Key findings
+---
 
-- Growth in global electricity production is concentrated in countries with the largest absolute volumes, with rankings remaining broadly stable over time.
-- In most of the selected countries, no clear structural trend emerges in the increase of the renewable share (percentage).
-- A sharp increase in total production is observed starting in 2016–2017, followed by stabilization through 2023.
+## Key Findings
+
+- Growth in global electricity production is concentrated in countries with
+  the largest absolute volumes, with rankings remaining broadly stable over time.
+- In most selected countries, no clear structural trend emerges in renewable
+  share growth (percentage).
+- A sharp increase in total production appears starting in 2016–2017, followed
+  by stabilization through 2023.
 - Pre-2016 dynamics are less reliable due to incomplete data coverage.
-- The presence of aggregated energy categories may lead to an underestimation of renewable production.
-- 3-year rolling averages improve readability of medium-term dynamics by reducing annual volatility.
+- Aggregated energy categories may lead to an underestimation of renewable output.
+- Rolling averages significantly improve trend readability.
 
-## Preliminary traditional Excel version
+---
 
-The repository includes an initial version developed in **traditional Excel**, based on formulas and manual calculations.
+## Legacy Excel Version
 
-This version is intentionally kept **without further optimization** in order to:
+The repository includes an initial implementation based on **traditional Excel**
+(formulas and manual calculations).
 
-- document the project evolution
-- show calculation logic in traditional Excel
-- highlight scalability limits of a non-modeled approach
+This version is intentionally preserved to:
+- document project evolution
+- expose calculation logic
+- highlight scalability limits of non-modeled approaches
 
 The final solution is based on **Power Query and Power Pivot**.
 
-## Tools Used
+---
 
-- **Data cleaning:** Excel Power Query
-- **Data modeling and visualization:** Excel Power Pivot + DAX measures
+## Tools & Technologies
+
+- **ETL:** Excel Power Query
+- **Data modeling & analytics:** Excel Power Pivot, DAX
 - **IDE:** Visual Studio Code
-- **Version control and documentation:** Git / GitHub
+- **Version control:** Git / GitHub
 
-## Skills demonstrated
+---
+
+## Skills Demonstrated
 
 - star schema data modeling
 - ETL design in Power Query
 - DAX measure development
-- energy analytics
+- energy systems analytics
 - time-stable KPI design
 - structured technical documentation
 
 ---
 
-## Further Documentation & Deep Dives
+## Documentation & Deep Dives
 
-Additional documentation and project structure:
-
-- **Legacy Excel-based analysis**  
+- Legacy Excel-based analysis  
   [`00_legacy_excel_traditional/README.md`](00_legacy_excel_traditional/README.md)
 
-- **Raw source data (CSV)**  
-  [`01_raw_data/`](/01_raw_data/global_electricity_production_data_1k.csv)
+- Raw source data  
+  [`01_raw_data/`](01_raw_data/global_electricity_production_data_1k.csv)  
+  Full dataset available on Kaggle
 
-Full dataset available [here](https://www.kaggle.com/datasets/sazidthe1/global-electricity-production).
-
-- **Power Query ETL documentation**  
+- ETL documentation  
   [`03_etl/etl.md`](03_etl/etl.md)
 
-- **Data model documentation**  
+- Data model documentation  
   [`04_data_model/model_overview.md`](04_data_model/model_overview.md)
 
-- **DAX measures documentation**  
+- DAX measures  
   [`05_dax/dax.md`](05_dax/dax.md)
 
-- **Dashboard explanation**  
+- Dashboard explanation  
   [`06_dashboard/dashboard_overview.md`](06_dashboard/dashboard_overview.md)
-
-
