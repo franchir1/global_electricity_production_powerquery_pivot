@@ -189,3 +189,6 @@ The final solution is based on **Power Query and Power Pivot**.
 
 - Dashboard explanation  
   [`06_dashboard/dashboard_overview.md`](06_dashboard/dashboard_overview.md)
+
+- Excel file
+  ['global_electricity_production_report'](/02_clean_data/global_electricity_production_report.xlsx)
